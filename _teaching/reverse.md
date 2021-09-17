@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/reverse-1
 venue: "UNICAMP, UFPR, SBSEG"
-date: 2018-2019
+date: 2018-01-01
 location: "Brazil"
 ---
 
