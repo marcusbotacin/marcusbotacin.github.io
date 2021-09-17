@@ -1,6 +1,6 @@
 ---
 title: "Branch Monitoring Framework"
-excerpt: "A Branch Monitor-based Monitoring Solution<br/><img src='/images/500x300.png'>"
+excerpt: "A Branch Monitor-based Monitoring Solution<br/><img src='/images/branchmonitor.png'>"
 collection: portfolio
 ---
 
