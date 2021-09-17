@@ -1,6 +1,6 @@
 ---
 title: "Project Corvus"
-excerpt: "Malware sandbox and threat intelligence platform<br/><img src='/images/corvus.png'>"
+excerpt: "Malware sandbox and threat intelligence platform"
 collection: portfolio
 ---
 
