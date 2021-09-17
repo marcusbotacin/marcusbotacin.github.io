@@ -15,7 +15,7 @@ Education
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
   * Final Project: *“Malware detection via syscall patterns identification”*
 * MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
-  * Dissertation: *"Hardware-Assisted Malware Analysis"*
+  * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download](files/marcus-msc.pdf))
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021 (expected)
   * Thesis: *"On the Malware Detection Problem: Challenges and new Approaches"*
 
