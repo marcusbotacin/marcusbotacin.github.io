@@ -8,51 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to my website! You might be interested in my background and experiences, so I following present my CV:
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
+  * Final Project: “Malware detection via syscall patterns identification”
+* MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
+* PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021 (expected)
 
-Work experience
+International Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Researcher: University of Florida (UF-USA), May/2019
+  * Hosted by: Prof. Daniela Oliveira
+* Visiting Researcher: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU-GER), November/2018
+  * Hosted by: Prof. Tilo Muller
+* Visiting Researcher: University of Florida (UF-USA), August/2018
+  * Hosted by: Prof. Daniela Oliveira
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
