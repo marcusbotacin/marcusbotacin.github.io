@@ -13,9 +13,11 @@ Welcome to my website! You might be interested in my background and experiences,
 Education
 ======
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
-  * Final Project: “Malware detection via syscall patterns identification”
+  * Final Project: *“Malware detection via syscall patterns identification”*
 * MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
+  * Dissertation: *"Hardware-Assisted Malware Analysis"*
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021 (expected)
+  * Thesis: *"On the Malware Detection Problem: Challenges and new Approaches"*
 
 International Experience
 ======
@@ -26,4 +28,47 @@ International Experience
 * Visiting Researcher: University of Florida (UF-USA), August/2018
   * Hosted by: Prof. Daniela Oliveira
 
+Research Interests
+======
+* Malware Analysis, Evasion, and Detection
+* Sandbox Development
+* Antivírus Operation
+* Hardware-Assisted Security Solutions
+* Reverse Engineering
   
+Awards
+======
+* Best Master Dissertation - 1st place - Brazilian Computer Society (SBC) - 2018
+  * Prize for: *"Hardware-Assisted Malware Analysis"*, Botacin
+* Best Undergraduate Research Paper (co-author)- 1st place - Brazilian Computer Society (SBC) - 2018
+  * Prize for: *"Malicious Linux Binaries: A Landscape"*, Galante et al.
+* Travel Grant - Student Diversity Grant - USENIX ENIGMA - 2019
+
+Prizes
+======
+* [Machine Learning-Based Malware Detectors Evasion Challenge 2020](https://mlsec.io/) - 1st place - Attackers Challenge
+* [Machine Learning-Based Malware Detectors Evasion Challenge 2020](https://mlsec.io/) - 2nd place - Defenders Challenge
+* [Machine Learning-Based Malware Detectors Evasion Challenge 2019](https://mlsec.io/) - 2nd place - Attackers Challenge
+
+Development Projects
+======
+* *"[Corvus: A Threat Intelligence and Sandbox Platform](https://corvus.inf.ufpr.br/)"*
+
+Featured Talks
+======
+* *"[Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!](https://www.youtube.com/watch?v=5mrEJ83rBDY)"* - USENIX ENIGMA 2021
+
+Academic Community Services
+======
+* Program Committee member for USENIX Security 2022
+* Artifact Evaluation Committee for USENIX Security 2020 and USENIX WOOT 2020
+* Ad-hoc reviewer for ACM CSUR, IEEE TIFS, ELSEVIER Comp&Sec, and others.
+
+Publications Summary
+======
+* 11 papers published in international journals 
+  * Including top venues, such as ACM CSUR, ACM TOPS, IEEE TDSC, and ELSEVIER Computers & Security
+* 7 papers in International conferences
+  * Including reputable venues, such as DIMVA and ARES
+* 12 papers in Brazilian conferences
+* 2 book chapters (in Portuguese)
