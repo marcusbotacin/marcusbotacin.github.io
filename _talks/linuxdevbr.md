@@ -1,5 +1,5 @@
 ---
-title: "Malicious Linux Binaries A Landscape"
+title: "Malicious Linux Binaries: A Landscape"
 collection: talks
 type: "Talk"
 permalink: /talks/linuxdevbr
