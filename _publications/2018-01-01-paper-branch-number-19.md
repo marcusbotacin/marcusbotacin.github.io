@@ -1,5 +1,5 @@
 ---
-title: "Who Watches the Watchmen: A Security-focused Review on Current State-of-the-art Techniques, Tools, and Methods for Systems and Binary Analysis on Modern Platforms"
+title: "Enhancing Branch Monitoring for Security Purposes: From Control Flow Integrity to Malware Analysis and Debugging"
 collection: publications
 permalink: /publication/2018-01-01-paper-branch-number-19
 excerpt: 'My paper proposing a framework based on CPUs branch monitors.'
@@ -10,5 +10,5 @@ citation: 'Botacin et al, Marcus. (2018). &quot;Enhancing Branch Monitoring for 
 ---
 My paper proposing a framework based on CPUs branch monitors.
 
-[Download Paper](https://marcusbotacin.github.io/files/marcus-survey.pdf)
+[Download Paper](https://marcusbotacin.github.io/files/marcus-branch.pdf)
 
