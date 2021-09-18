@@ -10,5 +10,5 @@ citation: 'Beppler et al, Tamy. (2019). &quot;L(a)ying in (Test)Bed: How Biased 
 ---
 My paper about detecting malware via image textures.
 
-[Download Paper](https://marcusbotacin.github.io/files/marcus_recosoc.pdf)
+[Download Paper](https://marcusbotacin.github.io/files/malware_textures_tamy.pdf)
 
