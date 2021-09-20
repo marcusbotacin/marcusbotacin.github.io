@@ -32,7 +32,7 @@ Research Interests
 ======
 * Malware Analysis, Evasion, and Detection
 * Sandbox Development
-* Antivírus Operation
+* Antivirus Operation
 * Hardware-Assisted Security Solutions
 * Reverse Engineering
   
