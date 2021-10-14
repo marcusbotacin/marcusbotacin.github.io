@@ -8,4 +8,4 @@ date: 2021-10-13
 location: "Brazil"
 ---
 
-This is a talk about our participation in the MLSec malware evasion competition. [Slides](files/mlsec.pdf)
+This is a talk about our participation in the MLSec malware evasion competition. [Slides](https://marcusbotacin.github.io/files/mlsec.pdf)
