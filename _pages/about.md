@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! You might be interested in my background and experiences, so I following present my CV:
+Welcome to my website! You might be interested in my background and experiences, so I below present my CV. [PDF Here](https://marcusbotacin.github.io/files/cv.pdf)
 
 Education
 ======
