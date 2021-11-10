@@ -27,13 +27,13 @@ Employment
 
 (co)Advised Students
 ======
-* Lucas Baganha Galante
+* Lucas Baganha Galante (UNICAMP, 2017-2019)
   * Linux Malware and ML-based malware detection.
-* Giovanni Bertão
+* Giovanni Bertão (UNICAMP, 2017-2019)
   * Large-scale malware repositories and application crawling.
-* Vitor Falcão da Roch
+* Vitor Falcão da Roch (UNICAMP, 2016-2017)
   * Anti-forensics and malware anti-analysis.
-* Felipe Duarte Domingues
+* Felipe Duarte Domingues (UFPR/UNICAMP, 2019-2021)
   * Antivirus' operations.
 
 International Experience
