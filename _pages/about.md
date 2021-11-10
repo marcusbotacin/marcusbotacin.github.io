@@ -10,14 +10,20 @@ redirect_from:
 
 Welcome to my website! You might be interested in my background and experiences, so I below present my CV. [PDF Here](https://marcusbotacin.github.io/files/cv.pdf)
 
+Employment
+======
+* Federal University of Paraná (UFPR), Brazil
+  * I'm currently a lecturer for the 2021 term.
+  * Currently teaching Programming 101 courses.
+
 Education
 ======
-* BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
-  * Final Project: *“Malware detection via syscall patterns identification”*
-* MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
-  * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download](files/marcus-msc.pdf))
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021 (expected)
   * Thesis: *"On the Malware Detection Problem: Challenges and new Approaches"*
+* MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
+  * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download](files/marcus-msc.pdf))
+* BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
+  * Final Project: *“Malware detection via syscall patterns identification”*
 
 International Experience
 ======
@@ -46,6 +52,8 @@ Awards
 
 Prizes
 ======
+* [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Attackers Challenge
+* [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Defenders Challenge
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2020](https://mlsec.io/) - 1st place - Attackers Challenge
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2020](https://mlsec.io/) - 2nd place - Defenders Challenge
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2019](https://mlsec.io/) - 2nd place - Attackers Challenge
