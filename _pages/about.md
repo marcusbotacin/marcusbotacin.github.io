@@ -10,12 +10,6 @@ redirect_from:
 
 Welcome to my website! You might be interested in my background and experiences, so I below present my CV. [PDF Here](https://marcusbotacin.github.io/files/cv.pdf)
 
-Employment
-======
-* Federal University of Paraná (UFPR), Brazil
-  * I'm currently a lecturer for the 2021 term.
-  * Currently teaching Programming 101 courses.
-
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021 (expected)
@@ -24,6 +18,23 @@ Education
   * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download](files/marcus-msc.pdf))
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
   * Final Project: *“Malware detection via syscall patterns identification”*
+
+Employment
+======
+* Federal University of Paraná (UFPR), Brazil
+  * I'm currently a lecturer for the 2021 term.
+  * Currently teaching Programming 101 courses.
+
+(co)Advised Students
+======
+* Lucas Baganha Galante
+  * Linux Malware and ML-based malware detection.
+* Giovanni Bertão
+  * Large-scale malware repositories and application crawling.
+* Vitor Falcão da Roch
+  * Anti-forensics and malware anti-analysis.
+* Felipe Duarte Domingues
+  * Antivirus' operations.
 
 International Experience
 ======
