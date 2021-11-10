@@ -31,8 +31,10 @@ Employment
   * Linux Malware and ML-based malware detection.
 * Giovanni Bertão (UNICAMP, 2017-2019)
   * Large-scale malware repositories and application crawling.
-* Vitor Falcão da Roch (UNICAMP, 2016-2017)
+* Vitor Falcão da Rocha (UNICAMP, 2016-2017)
   * Anti-forensics and malware anti-analysis.
+* Raphael Machinicki (UFPR, 2019-2020)
+  * Analysis of Android apps' operations.
 * Felipe Duarte Domingues (UFPR/UNICAMP, 2019-2021)
   * Antivirus' operations.
 
