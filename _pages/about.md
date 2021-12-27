@@ -12,8 +12,8 @@ Welcome to my website! You might be interested in my background and experiences,
 
 Education
 ======
-* PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021 (expected)
-  * Thesis: *"On the Malware Detection Problem: Challenges and new Approaches"*
+* PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
+  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"*
 * MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
   * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download](files/marcus-msc.pdf))
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
