@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Branch Monitoring for Security Purposes: From Control Flow Integrity to Malware Analysis and Debugging"
+title: "Terminator: A Secure Coprocessor to Accelerate Real-Time AntiViruses Using Inspection Breakpoints"
 collection: publications
 permalink: /publication/2022-01-01-paper-coproc-number-21
 excerpt: 'My paper proposing hardware breakpoints for AV scanning using a CPU coprocessor.'
