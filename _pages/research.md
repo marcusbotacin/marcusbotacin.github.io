@@ -1,11 +1,8 @@
 ---
-permalink: /research/
+layout: archive
 title: "Research Ideas"
-excerpt: "Research Ideas"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 TEST
