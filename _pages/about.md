@@ -87,9 +87,13 @@ Academic Community Services
 
 Publications Summary
 ======
-* 11 papers published in international journals 
+* 14 papers published in international journals
   * Including top venues, such as ACM CSUR, ACM TOPS, IEEE TDSC, and ELSEVIER Computers & Security
 * 7 papers in International conferences
   * Including reputable venues, such as DIMVA and ARES
 * 12 papers in Brazilian conferences
 * 2 book chapters (in Portuguese)
+
+**NOTICE 1**: Check the publications tab for paper details. 
+**NOTICE 2**: Check Google Scholar for updated paper statistics.
+Publications
