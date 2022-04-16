@@ -22,8 +22,10 @@ Education
 Employment
 ======
 * Federal University of Paraná (UFPR), Brazil
-  * I'm currently a lecturer for the 2021 term.
-  * Currently teaching Programming 101 courses.
+  * 2021/2: Lecturer
+    * Programming 101 (Undergrad, Engineering)
+  * 2021/2: External Professor
+    * Computational Infrastructure (Graduate, Big Data)
 
 (co)Advised Students
 ======
