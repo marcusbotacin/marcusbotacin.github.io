@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! You might be interested in my background and experiences, so I below present my CV. [PDF Here](https://marcusbotacin.github.io/files/cv.pdf)
+Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: 2021)
 
 Education
 ======
@@ -25,7 +25,7 @@ Employment
   * 2021/2: Lecturer
     * Programming 101 (Undergrad, Engineering)
   * 2021/2: External Professor
-    * Computational Infrastructure (Graduate, Big Data)
+    * Computational Infrastructure (Graduate, Big Data Specialization)
 
 (co)Advised Students
 ======
@@ -89,12 +89,25 @@ Academic Community Services
 
 Publications Summary
 ======
-* 14 papers published in international journals
-  * Including top venues, such as ACM CSUR, ACM TOPS, IEEE TDSC, and ELSEVIER Computers & Security
-* 7 papers in International conferences
-  * Including reputable venues, such as DIMVA and ARES
+* 14 papers published in international journals.
+    * Springer Journal in Computer Virology: 4
+    * ACM Transactions on Privacy and Security (TOPS): 3
+    * Elsevier Computers and Security: 3
+    * ACM Computing Surveys (CSUR): 1
+    * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
+    * Elsevier Expert Systems With Applications (ESWA): 1
+    * Elsevier Digital Investigation: 1
+* 8 papers in International conferences.
+    * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
+    * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 1
+    * ACM Availability, Reliability and Security (ARES): 1
+    * Springer Information Security Conference (ISC): 1
+    * ACM Memory Systems (MEMSYS): 1
+    * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
 * 12 papers in Brazilian conferences
-* 2 book chapters (in Portuguese)
+* 2 book chapters (in Portuguese):
+  * Binary Analysis on Modern Platforms (SBSeg short course)
+  * Introduction to Reverse Engineering (SBSeg short course)
 
 **NOTICE 1**: Check the publications tab for paper details. 
 
