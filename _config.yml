@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /research/:path/
 
 # Defaults
 defaults:
