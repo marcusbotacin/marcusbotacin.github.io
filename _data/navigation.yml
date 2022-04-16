@@ -11,7 +11,10 @@ main:
     
   - title: "Projects"
     url: /portfolio/
-        
+ 
+  - title: "Research Ideas"
+    url: /research/
+       
   - title: "News"
     url: /year-archive/
     
