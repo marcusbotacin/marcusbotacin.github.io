@@ -95,5 +95,6 @@ Publications Summary
 * 2 book chapters (in Portuguese)
 
 **NOTICE 1**: Check the publications tab for paper details. 
+
 **NOTICE 2**: Check Google Scholar for updated paper statistics.
 Publications
