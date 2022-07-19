@@ -45,6 +45,6 @@ Does my research work interest you? Do you want to work with me? I following pre
 ## Operating Systems
 * Resilient and Self-healing systems.
 
-## Data Science and Analytic
+## Data Science and Analytics
 * Similar malware clustering.
 * Threat intelligence from malware logs.
