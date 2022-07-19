@@ -10,6 +10,10 @@ redirect_from:
 
 Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: 2021)
 
+Announcements
+======
+I'm co-editing a DTRAP special issue on unconventional malware. Submit your best papers! [CFP](https://dtrap-blog.acm.org/2022/05/25/special-issue-on-memory-based-malware-and-other-unconventional-threats/) [Extended CFP](https://dtrap-blog.acm.org/2022/05/27/extended-call-for-papers/) [Mentoring Program](https://dtrap-blog.acm.org/2022/05/31/dtraps-mentoring-program/)
+
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
