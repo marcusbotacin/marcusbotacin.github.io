@@ -83,9 +83,23 @@ Featured Talks
 
 Academic Community Services
 ======
-* Program Committee member for USENIX Security 2022
-* Artifact Evaluation Committee for USENIX Security 2020 and USENIX WOOT 2020
-* Ad-hoc reviewer for ACM CSUR, IEEE TIFS, ELSEVIER Comp&Sec, and others.
+* Program Committee member:
+    * USENIX Security 2023
+    * USENIX Security 2022
+* Artifact Evaluation Committee:
+    * USENIX Security 2020
+    * USENIX WOOT 2020
+* Ad-hoc reviewer:
+    * ACM Computing Surveys (CSUR)
+    * ACM Digital Threats: Research and Pratice (DTRAP)
+    * Cell: Patterns
+    * Elsevier Computers & Security
+    * Elsevier Computers in Human Behavior
+    * Elsevier Forensic Science International: Digital Investigation (Digital Investigation)
+    * IEEE Transactions on Information Forensics and Security (TIFS) 
+    * IEEE Transactions on Dependable and Secure Computing (TDSC)
+    * Springer Computing
+    * Wiley Journal of Software: Evolution and Process
 
 Publications Summary
 ======
