@@ -93,6 +93,7 @@ Academic Community Services
 * Artifact Evaluation Committee:
     * USENIX Security 2020
     * USENIX WOOT 2020
+    * Journal of Systems Research (JSys)
 * Ad-hoc reviewer:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Pratice (DTRAP)
