@@ -128,6 +128,10 @@ Publications Summary
   * Binary Analysis on Modern Platforms (SBSeg short course)
   * Introduction to Reverse Engineering (SBSeg short course)
 
-**NOTICE 1**: Check the publications tab for paper details. 
+**NOTICE 1**: Check the [publications tab](https://marcusbotacin.github.io/publications/) for paper details. 
 
-**NOTICE 2**: Check Google Scholar for updated paper statistics.
+**NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
+
+**NOTICE 3**: Check [Publons](https://publons.com/wos-op/researcher/3970988/marcus-botacin/peer-review/) for an updated (but incomplete) tracking of paper reviews.
+
+**NOTICE 4**: Check [Awards Report](https://www.unicamp.br/anuario/2018/IC/IC-premiosehomenagens.html) (in Portuguese) in my former university page.
