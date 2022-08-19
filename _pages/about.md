@@ -17,9 +17,9 @@ I'm co-editing a DTRAP special issue on unconventional malware. Submit your best
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
-  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"*
+  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"* ([Download Full Text](files/marcus-phd.pdf)) ([Download Summary](files/marcus-phd-summary.pdf))
 * MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
-  * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download](files/marcus-msc.pdf))
+  * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download Full Text](files/marcus-msc.pdf))
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
   * Final Project: *“Malware detection via syscall patterns identification”*
 
