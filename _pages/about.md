@@ -17,7 +17,7 @@ I'm co-editing a DTRAP special issue on unconventional malware. Submit your best
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
-  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"* ([Download Full Text](files/marcus-phd.pdf)) ([Download Summary](files/marcus-phd-summary.pdf))
+  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"* ([Download Full Text](files/marcus-phd.pdf)) ([Download Summary](files/marcus-phd-summary.pdf)) [Defense Video](https://www.youtube.com/watch?v=_ZnEm1mtzSw)
 * MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
   * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download Full Text](files/marcus-msc.pdf))
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
@@ -61,15 +61,26 @@ Research Interests
 * Hardware-Assisted Security Solutions
 * Reverse Engineering
   
-Awards
+Academic Awards
 ======
-* Best Master Dissertation - 1st place - Brazilian Computer Society (SBC) - 2018
+* Top-3 Best PhD Thesis in Security - Brazilian Computer Society (SBC) - 2022
+  * Prize for: *"On the Malware Detection Problem"*, Botacin
+* Best PhD Thesis - Informatics Department/UFPR - 2022
+  * Prize for: *"On the Malware Detection Problem"*, Botacin
+  * Nominated for the CAPES Award of the Brazilian Education Ministry.
+* Best Master Dissertation in Security - 1st place - Brazilian Computer Society (SBC) - 2018
   * Prize for: *"Hardware-Assisted Malware Analysis"*, Botacin
+* Best Master Dissertation - Institute of Computing/UNICAMP - 2017
+  * Prize for: *"Hardware-Assisted Malware Analysis"*, Botacin
+  * Check [Awards Report](https://www.unicamp.br/anuario/2018/IC/IC-premiosehomenagens.html) (in Portuguese) in my former university page.
 * Best Undergraduate Research Paper (co-author)- 1st place - Brazilian Computer Society (SBC) - 2018
   * Prize for: *"Malicious Linux Binaries: A Landscape"*, Galante et al.
+* Honorable Mention - Main Track - Brazilian Security Symposium - SBC, 2020
+  * Prize for: *"Malware Variants Identification in Pratice"*, Botacin et al.
+  * Check [Here](https://sbseg2019.ime.usp.br/SBSeg2019_files/propaganda-premio-principal-completo-mencao2.jpg)
 * Travel Grant - Student Diversity Grant - USENIX ENIGMA - 2019
 
-Prizes
+Contest Prizes
 ======
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Attackers Challenge
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Defenders Challenge
@@ -132,6 +143,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Publons](https://publons.com/wos-op/researcher/3970988/marcus-botacin/peer-review/) for an updated (but incomplete) tracking of paper reviews.
-
-**NOTICE 4**: Check [Awards Report](https://www.unicamp.br/anuario/2018/IC/IC-premiosehomenagens.html) (in Portuguese) in my former university page.
+**NOTICE 3**: Check [Publons](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews.
