@@ -75,7 +75,7 @@ Academic Awards
   * Check [Awards Report](https://www.unicamp.br/anuario/2018/IC/IC-premiosehomenagens.html) (in Portuguese) in my former university page.
 * Best Undergraduate Research Paper (co-author)- 1st place - Brazilian Computer Society (SBC) - 2018
   * Prize for: *"Malicious Linux Binaries: A Landscape"*, Galante et al.
-* Honorable Mention - Main Track - Brazilian Security Symposium - SBC, 2020
+* Honorable Mention - Main Track - Brazilian Security Symposium - SBC, 2019
   * Prize for: *"Malware Variants Identification in Pratice"*, Botacin et al.
   * Check [Here](https://sbseg2019.ime.usp.br/SBSeg2019_files/propaganda-premio-principal-completo-mencao2.jpg)
 * Travel Grant - Student Diversity Grant - USENIX ENIGMA - 2019
