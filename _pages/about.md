@@ -12,7 +12,7 @@ Welcome to my website! You might be interested in my background and experiences,
 
 Announcements
 ======
-I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm recruiting Ph.D., Masters, and undergraduate students!
+I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm looking for new Ph.D., Masters, and undergraduate students! [Check the research ideas and prospective students page](https://marcusbotacin.github.io/research/)
 
 I'm co-editing a DTRAP special issue on unconventional malware. Submit your best papers! [CFP](https://dtrap-blog.acm.org/2022/05/25/special-issue-on-memory-based-malware-and-other-unconventional-threats/) [Extended CFP](https://dtrap-blog.acm.org/2022/05/27/extended-call-for-papers/) [Mentoring Program](https://dtrap-blog.acm.org/2022/05/31/dtraps-mentoring-program/) [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
 
