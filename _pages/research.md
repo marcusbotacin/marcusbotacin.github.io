@@ -13,7 +13,7 @@ Does my research work interest you? Do you want to work with me? Take a look at 
 
 * I recommend you to email me if you are a special case, like a self-funded Ph.D. student and/or Post-Doc candidate.
 
-* Master students must be enrolled in the program before electing me as dissertation supervisor. If you are already a master student, reach me out for scheduling an interview. If you are a prospective student, enroll in the master program first. Notice that master students are usually self-funded, even though I can pay complementary research hours for students writing their dissertations with me, depending upon our agreement.
+* Master students must be enrolled in the program before electing me as dissertation supervisor. If you are already a master student, reach me out for scheduling an interview. If you are a prospective student, enroll in the master program first. Notice that master students are usually self-funded, even though I may pay complementary research hours for students writing their dissertations with me, depending upon our agreement.
 
 * If you are an enrolled undergraduate student and want to have your first research experience, reach me out. I can attest your research experience even if you are a voluntary. It will be my pleasure to recommend you for a graduate program if we have a great research experience.
 
