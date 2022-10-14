@@ -9,7 +9,7 @@ Does my research work interest you? Do you want to work with me? Take a look at 
 
 # Prospective Students
 
-* I have funded positions for Ph.D. students. You don't need to email me in advance. You can apply directly via the university website. I will invite students who mention me in their applications and/or any other students who have a security background for an interview in the appropriate time.
+* I have funded positions for Ph.D. students. You don't need to email me in advance. You can apply directly via the university website. I may/will invite students who mention me in their applications and/or any other students who have a security background for an interview in the appropriate time.
 
 * I recommend you to email me if you are a special case, like a self-funded Ph.D. student and/or Post-Doc candidate.
 
