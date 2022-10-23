@@ -16,10 +16,12 @@ I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/pro
 
 I'm co-editing a DTRAP special issue on unconventional malware. Submit your best papers! [CFP](https://dtrap-blog.acm.org/2022/05/25/special-issue-on-memory-based-malware-and-other-unconventional-threats/) [Extended CFP](https://dtrap-blog.acm.org/2022/05/27/extended-call-for-papers/) [Mentoring Program](https://dtrap-blog.acm.org/2022/05/31/dtraps-mentoring-program/) [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
 
+I will teach a new security course in 2023. [Take a look here](https://marcusbotacin.github.io/teaching/ml-1)
+
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
-  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"* ([Download Full Text](files/marcus-phd.pdf)) ([Download Summary](files/marcus-phd-summary.pdf)) [Defense Video](https://www.youtube.com/watch?v=_ZnEm1mtzSw)
+  * Thesis: *"On the Malware Detection Problem: Challenges and novel Approaches"* ([Download Full Text](files/marcus-phd.pdf)) ([Download Summary](files/marcus-phd-summary.pdf)) ([Defense Video](https://www.youtube.com/watch?v=_ZnEm1mtzSw))
 * MSc in Computer Science, University of Campinas (UNICAMP-Brazil), 2017
   * Dissertation: *"Hardware-Assisted Malware Analysis"* ([Download Full Text](files/marcus-msc.pdf))
 * BS in Computer Engineering, University of Campinas (UNICAMP-Brazil), 2015
@@ -52,11 +54,11 @@ Employment
 International Experience
 ======
 * Visiting Researcher: University of Florida (UF-USA), May/2019
-  * Hosted by: Prof. Daniela Oliveira
+  * Hosted by: Prof. Ph.D. Daniela Oliveira
 * Visiting Researcher: Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU-GER), November/2018
-  * Hosted by: Prof. Tilo Muller
+  * Hosted by: Prof. Ph.D. Tilo Muller
 * Visiting Researcher: University of Florida (UF-USA), August/2018
-  * Hosted by: Prof. Daniela Oliveira
+  * Hosted by: Prof. Ph.D. Daniela Oliveira
 
 Research Interests
 ======

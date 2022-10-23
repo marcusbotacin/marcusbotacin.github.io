@@ -1,5 +1,5 @@
 ---
-title: "Attacking and Defending with Machine Learning for Security"
+title: "Machine Learning-Based CyberDefenses"
 collection: teaching
 type: "Topics"
 permalink: /teaching/ml-1
