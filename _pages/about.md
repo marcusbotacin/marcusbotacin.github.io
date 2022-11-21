@@ -89,7 +89,7 @@ Academic Awards
 
 Contest Prizes
 ======
-* [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Attackers Challenge
+* [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Attackers Challenge ([See us at UFPR's website](https://www.ufpr.br/portalufpr/noticias/alunos-da-ufpr-vencem-desafio-internacional-de-quebra-de-modelos-de-inteligencia-artificial/))
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2021](https://mlsec.io/) - 1st place - Defenders Challenge
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2020](https://mlsec.io/) - 1st place - Attackers Challenge
 * [Machine Learning-Based Malware Detectors Evasion Challenge 2020](https://mlsec.io/) - 2nd place - Defenders Challenge
@@ -97,7 +97,7 @@ Contest Prizes
 
 Development Projects
 ======
-* *"[Corvus: A Threat Intelligence and Sandbox Platform](https://corvus.inf.ufpr.br/)"*
+* *"[Corvus: A Threat Intelligence and Sandbox Platform](https://corvus.inf.ufpr.br/)"* ([Watch the DEMO video](https://www.youtube.com/watch?v=cYeFDbaz5l0))
 
 Featured Talks
 ======
