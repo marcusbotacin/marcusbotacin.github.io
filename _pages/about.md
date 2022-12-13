@@ -141,7 +141,8 @@ Publications Summary
     * ACM Availability, Reliability and Security (ARES): 1
     * ACM Memory Systems (MEMSYS): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
-* 12 papers in Brazilian conferences
+* 12 papers in Brazilian conferences:
+    * Check out the [SBC library](https://sol.sbc.org.br/index.php/indice)
 * 2 book chapters (in Portuguese):
   * Binary Analysis on Modern Platforms (SBSeg short course)
   * Introduction to Reverse Engineering (SBSeg short course)
