@@ -34,4 +34,4 @@ Let's make a small version of the [MLSEC](mlsec.io) competition, with students p
 
 ## Official Course Link
 
-The official course link will be posted soon.
+TAMU students can already enroll in CSCE689 via the Howdy! system.
