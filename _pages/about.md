@@ -101,10 +101,14 @@ Development Projects
 
 Featured Talks
 ======
-* *"[Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!](https://www.youtube.com/watch?v=5mrEJ83rBDY)"* - USENIX ENIGMA 2021
+
+* "Why Is Our Security Research Failing? Five Practices to Change!" [Page](https://www.usenix.org/conference/enigma2023/presentation/botacin) - USENIX ENIGMA 2023
+* "Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!" [Page](https://securityboulevard.com/2021/03/usenix-enigma-2021-marcus-botacins-does-your-threat-model-consider-country-and-culture-a-case-study-of-brazilian-internet-banking-security-to-show-that-it-should/) [Video](https://www.youtube.com/watch?v=5mrEJ83rBDY) - USENIX ENIGMA 2021
 
 Academic Community Services
 ======
+* Guest Editor:
+    * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
 * Program Committee member:
     * USENIX Security 2023
     * USENIX Security 2022
