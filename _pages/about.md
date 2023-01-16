@@ -126,6 +126,7 @@ Academic Community Services
     * IEEE Transactions on Information Forensics and Security (TIFS) 
     * IEEE Transactions on Dependable and Secure Computing (TDSC)
     * Springer Computing
+    * Springer International Journal of Information Security
     * Wiley Journal of Software: Evolution and Process
 
 Publications Summary
