@@ -110,8 +110,9 @@ Academic Community Services
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
 * Program Committee member:
-    * USENIX Security 2023
-    * USENIX Security 2022
+    * [International Workshop on Re-design Industrial Control Systems with Security (RICSS), EuroS&P23](https://ricssworkshop.github.io/organization.html)
+    * [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers)
+    * [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
 * Artifact Evaluation Committee:
     * USENIX Security 2020
     * USENIX WOOT 2020
