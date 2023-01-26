@@ -102,7 +102,7 @@ Development Projects
 Featured Talks
 ======
 
-* "Why Is Our Security Research Failing? Five Practices to Change!" [Page](https://www.usenix.org/conference/enigma2023/presentation/botacin) - USENIX ENIGMA 2023
+* "Why Is Our Security Research Failing? Five Practices to Change!" [Page](https://www.usenix.org/conference/enigma2023/presentation/botacin) [Slides](files/enigma23.pdf) - USENIX ENIGMA 2023
 * "Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!" [Page](https://securityboulevard.com/2021/03/usenix-enigma-2021-marcus-botacins-does-your-threat-model-consider-country-and-culture-a-case-study-of-brazilian-internet-banking-security-to-show-that-it-should/) [Video](https://www.youtube.com/watch?v=5mrEJ83rBDY) - USENIX ENIGMA 2021
 
 Academic Community Services
