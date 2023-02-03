@@ -57,5 +57,5 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - Malware detection as a Natural Language Processing (NLP) problem.
         - The need for having very low False Positives (FPs).
     * Outcomes:
-	- The student Soumyajyoti Dutta has been coding some examples on imbalanced data. [Check it here](https://github.com/Soumyajyotidutta/MLProjects/blob/main/MLCyber.ipynb)
+        - The student Soumyajyoti Dutta has been coding some examples on imbalanced data. [Check it here](https://github.com/Soumyajyotidutta/MLProjects/blob/main/MLCyber.ipynb)
                                                                            
