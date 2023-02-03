@@ -35,3 +35,25 @@ Let's make a small version of the [MLSEC](mlsec.io) competition, with students p
 ## Official Course Link
 
 TAMU students can already enroll in CSCE689 via the Howdy! system.
+
+## Course Progress
+
+* Topic 1.1 [Machine Learning for Malware Detection](https://media.kaspersky.com/en/enterprise-security/Kaspersky-Lab-Whitepaper-Machine-Learning.pdf)
+    * Concepts:
+        - Static vs. Dynamic analysis.
+        - Endpoint vs. Cloud-based strategies.
+        - Locality Sensitive Hashing (LSH).
+        - The role of AV updates.
+        - AV scans in the cloud.
+        - Non-negative Neural Networks (NNs) against evasion.
+    * Outcomes: 
+  	- TBD
+* Topic 1.2 [Malware Detection on Highly Imbalanced Data Links to an external site.
+through Sequence Modeling](https://dl.acm.org/doi/10.1145/3338501.3357374)
+    * Concepts:
+        - Traditional Machine Learning (ML) vs. Deep Learning (DL) algorithms.
+        - Imbalance in endpoint files vs. Imbalance in malware repositories.
+        - Malware detection as a Natural Language Processing (NLP) problem.
+        - The need for having very low False Positives (FPs).
+    * Outcomes:
+	- TBD
