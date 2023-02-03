@@ -47,13 +47,15 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - AV scans in the cloud.
         - Non-negative Neural Networks (NNs) against evasion.
     * Outcomes: 
-  	- TBD
-* Topic 1.2 [Malware Detection on Highly Imbalanced Data Links to an external site.
-through Sequence Modeling](https://dl.acm.org/doi/10.1145/3338501.3357374)
+  	- The student Sidhart Baveja created a blog on ML for security. [Check it here](https://ml-to-cs.sidharthbaveja.com/)
+	- The student Sidharth Anil created a mind map for this paper. [Check it here](https://gitmind.com/app/docs/mo1h217e)
+
+* Topic 1.2 [Malware Detection on Highly Imbalanced Data through Sequence Modeling](https://dl.acm.org/doi/10.1145/3338501.3357374)
     * Concepts:
         - Traditional Machine Learning (ML) vs. Deep Learning (DL) algorithms.
         - Imbalance in endpoint files vs. Imbalance in malware repositories.
         - Malware detection as a Natural Language Processing (NLP) problem.
         - The need for having very low False Positives (FPs).
     * Outcomes:
-	- TBD
+	- The student Soumyajyoti Dutta has been coding some examples on imbalanced data. [Check it here](https://github.com/Soumyajyotidutta/MLProjects/blob/main/MLCyber.ipynb)
+                                                                           
