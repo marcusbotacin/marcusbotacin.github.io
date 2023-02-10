@@ -58,3 +58,30 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - The need for having very low False Positives (FPs).
     * Outcomes:
         - The student Soumyajyoti Dutta has been coding some examples on imbalanced data. [Check it here](https://github.com/Soumyajyotidutta/MLProjects/blob/main/MLCyber.ipynb)                                                                   
+
+* Topic 2.1 [Machine Learning (In) Security: A Stream of Problems (1/2)](https://arxiv.org/abs/2010.16045)
+     * Concepts:
+         - Problem space vs. Feature space.
+         - Data leakage and Temporal inconsistency.
+         - Label flipping.
+         - Under- and Over- sampling (temporally-accurate).
+         - Dataset size vs. Dataset diversity.
+         - FPR as a target metric.
+     * Outcomes:
+         - The student Soumyajyoti Dutta created a mind map for this paper. [Check Here](https://soumyajejyoti.netlify.app/Mind%20map.pdf)
+
+* Topic 2.2 [Machine Learning (In) Security: A Stream of Problems (2/2)](https://arxiv.org/abs/2010.16045)
+     * Concepts:
+         - Concept drift vs. Concept evolution.
+         - Cost-sensitive learning.
+         - Ensembling and Bagging.
+         - The RandomForest non-linearity and the AdaptiveRandomForest drift retraining.
+         - One-class classifiers.
+         - White-box and Black-box attacks.
+         - Substitute model and offline attacks.
+         - Gradient-descent attacks in images and malware classifiers.
+         - Adversarial retraining.
+         - What is a 0-day.
+         - Penetration testing: Blue vs. Red teams.
+     * Outcomes:
+         - The student Dutta created a discussion outline for this paper. [Check Here](https://soumyajejyoti.netlify.app/)
