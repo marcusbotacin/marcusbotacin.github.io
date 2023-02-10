@@ -60,9 +60,9 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - The student Soumyajyoti Dutta has been coding some examples on imbalanced data. [Check it here](https://github.com/Soumyajyotidutta/MLProjects/blob/main/MLCyber.ipynb)                                                                   
 
 * Topic 2.1 [Machine Learning (In) Security: A Stream of Problems (1/2)](https://arxiv.org/abs/2010.16045)
-    * Concepts:
-        * Problem space vs. Feature space.
-        * Data leakage and Temporal inconsistency.
+	* Concepts:
+		- Problem space vs. Feature space.
+        	- Data leakage and Temporal inconsistency.
         - Label flipping.
         - Under- and Over- sampling (temporally-accurate).
         - Dataset size vs. Dataset diversity.
