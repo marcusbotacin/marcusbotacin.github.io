@@ -60,18 +60,18 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - The student Soumyajyoti Dutta has been coding some examples on imbalanced data. [Check it here](https://github.com/Soumyajyotidutta/MLProjects/blob/main/MLCyber.ipynb)                                                                   
 
 * Topic 2.1 [Machine Learning (In) Security: A Stream of Problems (1/2)](https://arxiv.org/abs/2010.16045)
-     * Concepts:
+    * Concepts:
         - Problem space vs. Feature space.
         - Data leakage and Temporal inconsistency.
         - Label flipping.
         - Under- and Over- sampling (temporally-accurate).
         - Dataset size vs. Dataset diversity.
         - FPR as a target metric.
-     * Outcomes:
-        - The student Soumyajyoti Dutta created a mind map for this paper. [Check Here](https://soumyajejyoti.netlify.app/Mind%20map.pdf)
+    * Outcomes:
+        - The student Soumyajyoti Dutta created a mind map for this paper. [Check it here](https://soumyajejyoti.netlify.app/Mind%20map.pdf)
 
 * Topic 2.2 [Machine Learning (In) Security: A Stream of Problems (2/2)](https://arxiv.org/abs/2010.16045)
-     * Concepts:
+    * Concepts:
         - Concept drift vs. Concept evolution.
         - Cost-sensitive learning.
         - Ensembling and Bagging.
@@ -83,5 +83,5 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - Adversarial retraining.
         - What is a 0-day.
         - Penetration testing: Blue vs. Red teams.
-     * Outcomes:
-        - The student Dutta created a discussion outline for this paper. [Check Here](https://soumyajejyoti.netlify.app/)
+    * Outcomes:
+        - The student Dutta created a discussion outline for this paper. [Check it here](https://soumyajejyoti.netlify.app/)
