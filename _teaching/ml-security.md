@@ -85,3 +85,22 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Penetration testing: Blue vs. Red teams.
     * Outcomes:
         - The student Dutta created a discussion outline for this paper. [Check it here](https://soumyajejyoti.netlify.app/)
+
+* Topic 3.1 [Dos and Don'ts of Machine Learning in Computer Security (1/2)](https://www.usenix.org/system/files/sec22summer_arp.pdf)
+	* Concepts:
+		- Sampling bias.
+		- AV labels shifting.
+		- Base Rate Fallacy.
+		- Regional datasets implications.
+		- Threat Models.
+		- Website fingerprinting.
+		- Infection vectors: USB sticks and Autorun.
+		- Stuxnet malware.
+		- Hardware Trojans.
+
+* Topic 3.2 [Dos and Don'ts of Machine Learning in Computer Security (2/2)](https://www.usenix.org/system/files/sec22summer_arp.pdf)
+	* Concepts:
+		- Vulnerabilities vs. Malware.
+		- Malware campaigns, variants, and attribution.
+		- Reputation-based mechanisms: AV whitelisting.
+		- Outlier detection: profile-based and abnormal behavior detection.
