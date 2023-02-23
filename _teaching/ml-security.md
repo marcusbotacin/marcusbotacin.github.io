@@ -104,3 +104,16 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Malware campaigns, variants, and attribution.
 		- Reputation-based mechanisms: AV whitelisting.
 		- Outlier detection: profile-based and abnormal behavior detection.
+
+* Topic 4.1 [Fast & Furious: On the modelling of malware detection as an evolving data stream](https://www.sciencedirect.com/science/article/abs/pii/S0957417422016463)
+	* Concepts:
+		- Feature extractor retraining.
+	        - Encodings: 1-hot encoding.
+	        - Embeddings: TF-IDF, Word2Vec, Graph embeddings.
+	        - Graph Representations: Call Graphs (CGs), Control Flow Graphs (CFGs), Data Dependency Graphs (DDGs).
+	        - Concept drift: vocabulary changes.
+	        - Software Repositories: Dynamic analysis in application marketplaces.
+	        - Android malware: SMS fraud.
+	        - Web malware: Clickjacking.
+	        - Evasion strategies: Dead code insertion
+	        - Limits of static analysis: Opaque constants.
