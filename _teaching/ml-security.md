@@ -117,3 +117,13 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Web malware: Clickjacking.
 		- Evasion strategies: Dead code insertion
 		- Limits of static analysis: Opaque constants.
+
+* Topic 4.2 [DroidEvolver: Self-Evolving Android Malware Detection System](https://ieeexplore.ieee.org/document/8806731)
+	* Concepts:
+		- Pool of classifiers.
+		- Confidence levels.
+		- Pseudo-labels.
+		- Model poisoning.
+		- Backdooring ML models.
+		- MLOps and DevSecOps.
+		- AV telemetry.
