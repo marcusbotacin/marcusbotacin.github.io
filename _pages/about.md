@@ -140,11 +140,12 @@ Publications Summary
     * ACM Computing Surveys (CSUR): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 10 papers in International conferences.
+* 11 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
     * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 1
     * ACM Availability, Reliability and Security (ARES): 1
+    * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
 * 12 papers in Brazilian conferences:
