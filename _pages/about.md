@@ -38,6 +38,12 @@ Employment
   * 2021/2: External Professor
     * Computational Infrastructure (Graduate, Big Data Specialization)
 
+Other Professional Activities
+======
+* CYMDALL, Isral
+  * 2023 - Scientific Advisory Board Member
+    * Development of a hardware-assisted malware detection endpoint.
+
 (co)Advised Students
 ======
 * Lucas Baganha Galante (UNICAMP, 2017-2019)
