@@ -40,7 +40,7 @@ Employment
 
 Other Professional Activities
 ======
-* CYMDALL, Isral
+* CYMDALL, Israel
   * 2023 - Scientific Advisory Board Member
     * Development of a hardware-assisted malware detection endpoint.
 
