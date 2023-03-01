@@ -129,8 +129,8 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- AV telemetry.
 
 * Topic 5.1 [Transcend: Detecting Concept Drift in Malware Classification Models](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/jordaney)
-        * Concepts:
-                  - Conformal Evaluation.
-                  - Statistics vs. Probabilities.
-                  - P-values.
-                  - Classifider credibility vs. Prediction confidence.
+	* Concepts:
+		- Conformal Evaluation.
+		- Statistics vs. Probabilities.
+		- P-values.
+		- Classifider credibility vs. Prediction confidence.
