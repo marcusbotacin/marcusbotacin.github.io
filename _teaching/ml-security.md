@@ -127,3 +127,10 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Backdooring ML models.
 		- MLOps and DevSecOps.
 		- AV telemetry.
+
+* Topic 5.1 [Transcend: Detecting Concept Drift in Malware Classification Models](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/jordaney)
+        * Concepts:
+                  - Conformal Evaluation.
+                  - Statistics vs. Probabilities.
+                  - P-values.
+                  - Classifider credibility vs. Prediction confidence.
