@@ -134,3 +134,16 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Statistics vs. Probabilities.
 		- P-values.
 		- Classifider credibility vs. Prediction confidence.
+* Topic 5.2 [Transcending TRANSCEND: Revisiting Malware Classification in the Presence of Concept Drift](https://ieeexplore.ieee.org/document/9833659)
+	* Concepts:
+		- Pipeline of detection strategies.
+		- FPs in spam detection.
+		- PDF malware, Word malware, and macros.
+		- What is a file packer.
+		- Evasion techniques: Anti-VM and Sandbox fingerprinting.
+		- Attacker strategy: File format migration
+		- Server-side Polymorphism.
+		- Attack opportunity window and AV response time.
+		- Malware types: Botnets and Remote Access Trojans (RATs).      
+		- Command and Control (C&C or C2).
+		- Infection vectors: 1-click vs. 0-click vulnerability exploits.
