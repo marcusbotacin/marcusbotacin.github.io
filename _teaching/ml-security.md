@@ -147,3 +147,13 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Malware types: Botnets and Remote Access Trojans (RATs).      
 		- Command and Control (C&C or C2).
 		- Infection vectors: 1-click vs. 0-click vulnerability exploits.
+* Topic 6.1 [Shallow Security: on the Creation of Adversarial Variants to Evade Machine Learning-Based Malware Detectors](https://dl.acm.org/doi/10.1145/3375894.3375898)
+	* Concepts:
+		- Raw bytes vs. Feature-based models.
+		- MalConv vs. Non-negative MalConv.
+		- Adversarial Attacks: Data appending and Data hiding.
+		- Packers: Compressors, Crypters, Droppers, and Injectors.
+		- Malware Downloaders and URL obfuscation.
+		- PE Loading: OS internals, PE headers, fake timestamps, and checksum recomputation..
+		- ML biases: Detecting UPX as malware regardless of its content.
+		- C&C strategies: domain fronting. 
