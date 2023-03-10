@@ -157,3 +157,7 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- PE Loading: OS internals, PE headers, fake timestamps, and checksum recomputation..
 		- ML biases: Detecting UPX as malware regardless of its content.
 		- C&C strategies: domain fronting. 
+* Topic 6.2 [No Need to Teach New Tricks to Old Malware: Winning an Evasion Challenge with XOR-based Adversarial Samples](https://dl.acm.org/doi/10.1145/3433667.3433669)
+	* Concepts:
+		- Obfuscation strategies: XOR encoding and Base64 encoding.
+		- Mimicry attacks: Dead imports and Dynamic library resolving.
