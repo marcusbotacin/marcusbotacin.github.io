@@ -161,3 +161,13 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 	* Concepts:
 		- Obfuscation strategies: XOR encoding and Base64 encoding.
 		- Mimicry attacks: Dead imports and Dynamic library resolving.
+* Topic 7.1 [Functionality-Preserving Black-Box Optimization of Adversarial Windows Malware](https://ieeexplore.ieee.org/document/9437194)
+	* Concepts:
+		- Intrusion Detection: The need for minimizing the number of adversarial queries.
+		- Adversarial Attacks: Hard-labels vs. Soft-labels.
+		- ML Evasion as an optimization problem.
+		- Genetic algorithms for minimizing complex formulas.
+		- PE files: Entry points vs. Main functions.
+		- PE files: Code caves, Slack spaces, Padding, and Patching..
+		- Real-world attacks: Malware as a Service.
+		- Threat Models: AVs arruming pristine OS installations.
