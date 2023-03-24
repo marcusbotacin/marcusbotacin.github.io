@@ -170,11 +170,12 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- PE files: Entry points vs. Main functions.
 		- PE files: Code caves, Slack spaces, Padding, and Patching..
 		- Real-world attacks: Malware as a Service.
-		- Threat Models: AVs arruming pristine OS installations.
+		- Threat Models: AVs assuming pristine OS installations.
 * Topic 7.2 [Mal-LSGAN: An Effective Adversarial Malware Example Generation Model"](https://ieeexplore.ieee.org/document/9685442)
 	* Concepts:
 		- Generative Adversarial Networks (GANs).
-		- tack Transferability.
+		- Attack Transferability.
 		- Image generation: "This person does not exist".
+		- Moving Target Defense (MTD).
 
 
