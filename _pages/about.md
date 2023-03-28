@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Jan/2023)
+Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Mar/2023)
 
 Announcements
 ======
@@ -113,9 +113,13 @@ Featured Talks
 
 Academic Community Services
 ======
+* Panel Member:
+    * National Science Foundation (NSF) Panelist
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
 * Program Committee member:
+    * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
+    * ACM Annual Computer Security Applications Conference (ACSAC) 2023 (TBA)
     * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)](https://raid2023.org/committees.html)
     * [International Workshop on Re-design Industrial Control Systems with Security (RICSS), EuroS&P23](https://ricssworkshop.github.io/organization.html)
     * [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers)
@@ -131,8 +135,9 @@ Academic Community Services
     * Elsevier Computers & Security
     * Elsevier Computers in Human Behavior
     * Elsevier Forensic Science International: Digital Investigation (Digital Investigation)
-    * IEEE Transactions on Information Forensics and Security (TIFS) 
     * IEEE Transactions on Dependable and Secure Computing (TDSC)
+    * IEEE Transactions on Information Forensics and Security (TIFS) 
+    * IEEE Transactions on Mobile Computing (TMC)
     * Springer Computing
     * Springer International Journal of Information Security
     * Wiley Journal of Software: Evolution and Process
@@ -165,4 +170,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Publons](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews.
+**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews.
