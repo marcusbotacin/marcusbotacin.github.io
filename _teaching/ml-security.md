@@ -178,4 +178,13 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Image generation: "This person does not exist".
 		- Moving Target Defense (MTD).
 
+* Topic 8.1 [EvadeDroid: A Practical Evasion Attack on Machine Learning for Black-box Android Malware Detection](https://arxiv.org/abs/2110.03301)
+	* Concepts:
+		* 
+	* Outcomes
+		* The student Brandon Gathright presented a small implementation of the paper approach.
+
+* Topic 8.2 [Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective](https://dl.acm.org/doi/10.1145/3485133)
+	* Concepts:
+
 
