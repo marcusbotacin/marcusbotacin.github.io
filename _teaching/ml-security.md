@@ -180,9 +180,14 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 
 * Topic 8.1 [EvadeDroid: A Practical Evasion Attack on Machine Learning for Black-box Android Malware Detection](https://arxiv.org/abs/2110.03301)
 	* Concepts:
-		* 
+		- Android Reverse Engineering: Smali code.
+		- Assembly vs. Bytecode: Compiled vs. Interpreted languages.
+		- Attacks: Code gadgets.
+		- ML Classification: Markov models and text generation.
+		- Android models: GANs against permission-based classifiers.
+		- Access control: The abscence of native manifest files in Windows.
 	* Outcomes
-		* The student Brandon Gathright presented a small implementation of the paper approach.
+		- The student Brandon Gathright presented a small implementation of the paper approach.
 
 * Topic 8.2 [Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective](https://dl.acm.org/doi/10.1145/3485133)
 	* Concepts:
