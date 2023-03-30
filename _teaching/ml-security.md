@@ -185,7 +185,7 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Attacks: Code gadgets.
 		- ML Classification: Markov models and text generation.
 		- Android models: GANs against permission-based classifiers.
-		- Access control: The abscence of native manifest files in Windows.
+		- Access control: The absence of native manifest files in Windows.
 	* Outcomes
 		- The student Brandon Gathright presented a small implementation of the paper approach.
 
