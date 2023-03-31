@@ -191,5 +191,7 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 
 * Topic 8.2 [Adversarial Machine Learning in Image Classification: A Survey Toward the Defender’s Perspective](https://dl.acm.org/doi/10.1145/3485133)
 	* Concepts:
-
-
+		- Adversarial attacks in images: Invisible perturbations.
+		- Physical adversarial attacks: Autonomous vehicles.
+		- Explainable AI: Shapley values.
+		- Optical Character Recognition (OCR)-based SQL Injection.
