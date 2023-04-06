@@ -195,3 +195,15 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Physical adversarial attacks: Autonomous vehicles.
 		- Explainable AI: Shapley values.
 		- Optical Character Recognition (OCR)-based SQL Injection.
+* Topics 9.1 [Pop Quiz! Can a Large Language Model Help With Reverse Engineering?](https://arxiv.org/abs/2202.01142)
+	* Concepts:
+		- Reverse Engineering: Concepts and applications.
+		- GPT-3 Playground, ChatGPT, Github Copilot, and other LLM-based applications.
+		- Davinci, Codex, and other training sets.
+		- One-shot vs. Few-shot learning.
+		- Discussion on Large Models: Generalization or Overfitting?
+		- Google Captcha and OCR.
+		- Oracles in query-response systems.
+		- Sentiment analysis in textual documents.
+		- Usable Security: Pattern-based authentication.
+		- Language-based modeling: Grammar-based fuzzing.
