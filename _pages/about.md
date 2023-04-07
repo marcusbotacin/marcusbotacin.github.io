@@ -89,7 +89,7 @@ Academic Awards
 * Best Undergraduate Research Paper (co-author)- 1st place - Brazilian Computer Society (SBC) - 2018
   * Prize for: *"Malicious Linux Binaries: A Landscape"*, Galante et al.
 * Honorable Mention - Main Track - Brazilian Security Symposium - SBC, 2019
-  * Prize for: *"Malware Variants Identification in Pratice"*, Botacin et al.
+  * Prize for: *"Malware Variants Identification in Practice"*, Botacin et al.
   * Check [Here](https://sbseg2019.ime.usp.br/SBSeg2019_files/propaganda-premio-principal-completo-mencao2.jpg)
 * Travel Grant - Student Diversity Grant - USENIX ENIGMA - 2019
 
@@ -131,7 +131,7 @@ Academic Community Services
     * Journal of Systems Research (JSys)
 * Ad-hoc reviewer for 12 journals:
     * ACM Computing Surveys (CSUR)
-    * ACM Digital Threats: Research and Pratice (DTRAP)
+    * ACM Digital Threats: Research and Practice (DTRAP)
     * Cell: Patterns
     * Elsevier Computers & Security
     * Elsevier Computers in Human Behavior
