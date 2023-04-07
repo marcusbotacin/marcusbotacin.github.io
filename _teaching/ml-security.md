@@ -207,3 +207,12 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Sentiment analysis in textual documents.
 		- Usable Security: Pattern-based authentication.
 		- Language-based modeling: Grammar-based fuzzing.
+* Topic 9.2 [TrojanPuzzle: Covertly Poisoning Code-Suggestion Models](https://arxiv.org/abs/2301.02344)
+	* Concepts:
+		- Poisoning attacks against LLMs.
+		- Discussion: LLMs in the real-world.
+		- Sybil attacks.
+		- Common Weaknesses Enumeration (CWEs).
+		- Popular Vulnerabilities: Path Traversal.
+		- Downgrade Attacks: ECB-mode cryptography.
+		- Supply Chain attacks: Open-source repository trojanization.
