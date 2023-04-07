@@ -119,6 +119,7 @@ Academic Community Services
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
 * Program Committee member:
     * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
+    * Program Committee member for Conference on Computer and Communications Security (CCS) 2023 (Software Track) (TBA).
     * ACM Annual Computer Security Applications Conference (ACSAC) 2023 (TBA)
     * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)](https://raid2023.org/committees.html)
     * [International Workshop on Re-design Industrial Control Systems with Security (RICSS), EuroS&P23](https://ricssworkshop.github.io/organization.html)
@@ -128,7 +129,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer:
+* Ad-hoc reviewer for 12 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Pratice (DTRAP)
     * Cell: Patterns
