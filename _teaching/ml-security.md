@@ -216,3 +216,21 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Popular Vulnerabilities: Path Traversal.
 		- Downgrade Attacks: ECB-mode cryptography.
 		- Supply Chain attacks: Open-source repository trojanization.
+* Topic 10.1 [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://arxiv.org/abs/2112.02125)
+	* Concepts:
+		- TBA
+* Topic 10.2 [Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants](https://arxiv.org/abs/2208.09727)
+	* Concepts:
+		- TBA
+* Topic 11.1 [Online Binary Models are Promising for Distinguishing Temporally Consistent Computer Usage Profile](https://ieeexplore.ieee.org/document/9786768)
+	* Concepts:
+		- TBA
+* Topic 11.2 [Passphrase and keystroke dynamics authentication: Usable security](https://www.sciencedirect.com/science/article/pii/S0167404820302017)
+	* Concepts:
+		- TBA
+* Topic 12.1 [Automatic Yara Rule Generation Using Biclustering](https://arxiv.org/abs/2009.03779)
+	* Concepts:
+		- TBA
+* Topic 12.2 [DeepSign: Deep learning for automatic malware signature generation and classification](https://ieeexplore.ieee.org/document/7280815)
+	* Concepts:
+		- TBA
