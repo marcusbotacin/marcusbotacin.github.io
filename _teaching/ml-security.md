@@ -218,7 +218,11 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Supply Chain attacks: Open-source repository trojanization.
 * Topic 10.1 [Examining Zero-Shot Vulnerability Repair with Large Language Models](https://arxiv.org/abs/2112.02125)
 	* Concepts:
-		- TBA
+		- LLMs for bug fix: Should they be perfect or better than humans?
+		- LLM's temperature and the amount of randomness.
+		- Discussion: Is LLM coding the same as LLM learning the code?
+		- Hardware bugs: Glitches.
+		- (Secure) Software Engineering: (Security) Regression Testing.
 * Topic 10.2 [Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants](https://arxiv.org/abs/2208.09727)
 	* Concepts:
 		- TBA
