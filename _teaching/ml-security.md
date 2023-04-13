@@ -226,6 +226,8 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 * Topic 10.2 [Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants](https://arxiv.org/abs/2208.09727)
 	* Concepts:
 		- TBA
+	* Outcomes:
+		- The student Amith Mattar coded an automatic code generation tool. [Source](https://github.com/amithmkini/codesecurely) [Page](https://codesecurely.vercel.app/)
 * Topic 11.1 [Online Binary Models are Promising for Distinguishing Temporally Consistent Computer Usage Profile](https://ieeexplore.ieee.org/document/9786768)
 	* Concepts:
 		- TBA
