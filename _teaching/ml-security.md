@@ -49,7 +49,6 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
     * Outcomes: 
         - The student Sidhart Baveja created a blog on ML for security. [Check it here](https://ml-to-cs.sidharthbaveja.com/)
         - The student Sidharth Anil created a mind map for this paper. [Check it here](https://gitmind.com/app/docs/mo1h217e)
-
 * Topic 1.2 [Malware Detection on Highly Imbalanced Data through Sequence Modeling](https://dl.acm.org/doi/10.1145/3338501.3357374)
     * Concepts:
         - Traditional Machine Learning (ML) vs. Deep Learning (DL) algorithms.
@@ -228,6 +227,7 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- TBA
 	* Outcomes:
 		- The student Amith Mattar coded an automatic code generation tool. [Source](https://github.com/amithmkini/codesecurely) [Page](https://codesecurely.vercel.app/)
+
 * Topic 11.1 [Online Binary Models are Promising for Distinguishing Temporally Consistent Computer Usage Profile](https://ieeexplore.ieee.org/document/9786768)
 	* Concepts:
 		- TBA
