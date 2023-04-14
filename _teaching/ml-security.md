@@ -224,7 +224,11 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- (Secure) Software Engineering: (Security) Regression Testing.
 * Topic 10.2 [Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants](https://arxiv.org/abs/2208.09727)
 	* Concepts:
-		- TBA
+		- Complexity metrics: Lines of Code (LoCs) vs. Bugs per Line vs. etc.
+		- Bugs vs. Vulnerabilities.
+		- Trusted Code Base (TCB).
+		- Vulnerability Discovery: Fuzzing.
+		- Common Weaknesses Enumeration (CWE).
 	* Outcomes:
 		- The student Amith Mattar coded an automatic code generation tool. ([Source](https://github.com/amithmkini/codesecurely)) ([Page](https://codesecurely.vercel.app/))
 
