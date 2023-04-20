@@ -234,7 +234,10 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 
 * Topic 11.1 [Online Binary Models are Promising for Distinguishing Temporally Consistent Computer Usage Profile](https://ieeexplore.ieee.org/document/9786768)
 	* Concepts:
-		- TBA
+		- Authentication vs. Authorization.
+		- Continuous Authentication.
+		- Research Methodology: Online vs. Offline experiments.
+		- Malware vs. Goodware: Keyloggers vs. Keystroke authenticators. 
 * Topic 11.2 [Passphrase and keystroke dynamics authentication: Usable security](https://www.sciencedirect.com/science/article/pii/S0167404820302017)
 	* Concepts:
 		- TBA
