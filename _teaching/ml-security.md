@@ -240,7 +240,14 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Malware vs. Goodware: Keyloggers vs. Keystroke authenticators. 
 * Topic 11.2 [Passphrase and keystroke dynamics authentication: Usable security](https://www.sciencedirect.com/science/article/pii/S0167404820302017)
 	* Concepts:
-		- TBA
+		- Keystroke Dynamics.
+		- Secret Types: Passwords and Passphrashes.
+		- Password policies: Best practices and Usable Security.
+		- Password Strength: Shannon Entropy.
+		- Security Threats: Password leakage.
+		- Password Breaking: Brute-force, dictionary, and rainbow tables.
+		- Password Storage: Hashing and Salting.
+		- Security Threats II: Typosquatting.
 * Topic 12.1 [Automatic Yara Rule Generation Using Biclustering](https://arxiv.org/abs/2009.03779)
 	* Concepts:
 		- TBA
