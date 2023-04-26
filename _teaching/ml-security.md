@@ -250,7 +250,12 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Security Threats II: Typosquatting.
 * Topic 12.1 [Automatic Yara Rule Generation Using Biclustering](https://arxiv.org/abs/2009.03779)
 	* Concepts:
-		- TBA
+		- Pattern Matching: YARA rules.
+		- Taxonomy: 0 days, 1-day, N-day.
+		- Efficient rule storage: Bloom filters.
+		- Efficient rule matching: Aho-Corasick algorithm.
 * Topic 12.2 [DeepSign: Deep learning for automatic malware signature generation and classification](https://ieeexplore.ieee.org/document/7280815)
 	* Concepts:
-		- TBA
+		- ML construction: Denoising AutoEncoder.
+		- Malware Behaviors: Behavioral Signatures.
+		- Behavior Masking: Distributed Threats.
