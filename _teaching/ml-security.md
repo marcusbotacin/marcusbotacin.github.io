@@ -275,8 +275,8 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 * Results:
 	* Syed Rizvi and Yasir Farrukh were able tp ,ale ChatGPT to create a Python Ransomware.
 		- Prompt: ![Prompt](https://marcusbotacin.github.io/teaching/FIGS/chat-python.png)
-		- Execution: ![Sandbox Execution]((https://marcusbotacin.github.io/teaching/FIGS/SS.png)
+		- Execution: ![Sandbox Execution](https://marcusbotacin.github.io/teaching/FIGS/SS.png)
 
 	* Amith KMattar, Chunkai Fu, amd Mason Jerome were able to make ChatGPT create a Dropper.
-		- The Tool: ![Tool]((https://marcusbotacin.github.io/teaching/FIGS/GPT-1-1.png)
-		- Code Generation: ![Code]((https://marcusbotacin.github.io/teaching/FIGS/GPT-1-1.png)
+		- The Tool: ![Tool](https://marcusbotacin.github.io/teaching/FIGS/GPT-1-1.png)
+		- Code Generation: ![Code](https://marcusbotacin.github.io/teaching/FIGS/GPT-1-1.png)
