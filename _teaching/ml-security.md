@@ -260,7 +260,9 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Malware Behaviors: Behavioral Signatures.
 		- Behavior Masking: Distributed Threats.
 
-## CHallenge
+## Challenge
+
+* Results
 	* Defense
 		- Syed Wall and Yasir Farrukh won the defense challenge!
 	* Attack
@@ -269,10 +271,12 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 	
 
 ## ChatGPT Fun
+
+* Results:
 	* Syed Rizvi and Yasir Farrukh were able tp ,ale ChatGPT to create a Python Ransomware.
-		- Prompt: ![Prompt](FIGS/chat-python.png)
-		- Execution: ![Sandbox Execution](FIGS/SS.png)
+		- Prompt: ![Prompt](https://marcusbotacin.github.io/teaching/FIGS/chat-python.png)
+		- Execution: ![Sandbox Execution]((https://marcusbotacin.github.io/teaching/FIGS/SS.png)
 
 	* Amith KMattar, Chunkai Fu, amd Mason Jerome were able to make ChatGPT create a Dropper.
-		- The Tool: ![Tool](FIGS/GPT-1-1.png)
-		- Code Generation: ![Code](FIGS/GPT-1-1.png)
+		- The Tool: ![Tool]((https://marcusbotacin.github.io/teaching/FIGS/GPT-1-1.png)
+		- Code Generation: ![Code]((https://marcusbotacin.github.io/teaching/FIGS/GPT-1-1.png)
