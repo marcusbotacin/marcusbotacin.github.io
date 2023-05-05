@@ -259,3 +259,20 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- ML construction: Denoising AutoEncoder.
 		- Malware Behaviors: Behavioral Signatures.
 		- Behavior Masking: Distributed Threats.
+
+## CHallenge
+	* Defense
+		- Syed Wall and Yasir Farrukh won the defense challenge!
+	* Attack
+		- Veronika Maragulova, Sidharth Baveja, Sidharth Anil, and Soumyajyoti Dutta won the attack challenge!
+		- See the winner report [here](https://ml-to-cs.sidharthbaveja.com/competition/)
+	
+
+## ChatGPT Fun
+	* Syed Rizvi and Yasir Farrukh were able tp ,ale ChatGPT to create a Python Ransomware.
+		- Prompt: ![Prompt](FIGS/chat-python.png)
+		- Execution: ![Sandbox Execution](FIGS/SS.png)
+
+	* Amith KMattar, Chunkai Fu, amd Mason Jerome were able to make ChatGPT create a Dropper.
+		- The Tool: ![Tool](FIGS/GPT-1-1.png)
+		- Code Generation: ![Code](FIGS/GPT-1-1.png)
