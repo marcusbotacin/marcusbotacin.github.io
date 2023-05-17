@@ -1,8 +1,8 @@
 ---
-title: "GPThreats-3: Is Automatic Malware Generation a Threat?"
+title: "GP`Threats-3: Is Automatic Malware Generation a Threat?"
 collection: publications
 permalink: /publication/2023-05-01-paper-gpt-number-27
-excerpt: 'My paper discussing the use of GPT-3 to automatically generate malware.`
+excerpt: 'My paper discussing the use of GPT-3 to automatically generate malware.'
 date: 2023-05-01
 venue: 'Workshop on Offensive Technologies (WOOT)'
 paperurl: 'https://wootconference.org/'
