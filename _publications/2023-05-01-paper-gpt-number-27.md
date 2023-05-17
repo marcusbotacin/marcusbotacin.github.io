@@ -6,7 +6,7 @@ excerpt: 'My paper discussing the use of GPT-3 to automatically generate malware
 date: 2023-05-01
 venue: 'Workshop on Offensive Technologies (WOOT)'
 paperurl: 'https://wootconference.org/'
-citation: 'Botacin, Marcus. (2023). &quot; GPThreats-3: Is Automatic Malware Generation a Threat?&quot; <i>WOOT</i>. 1(1).'
+citation: 'Botacin, Marcus. (2023). &quot;GPThreats-3: Is Automatic Malware Generation a Threat?&quot; <i>WOOT</i>. 1(1).'
 ---
 My paper discussing the use of GPT-3 to automatically generate malware.
 
