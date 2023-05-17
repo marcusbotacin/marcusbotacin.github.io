@@ -14,10 +14,6 @@ Announcements
 ======
 I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm looking for new Ph.D., Masters, and undergraduate students! [Check the research ideas and prospective students page](https://marcusbotacin.github.io/research/)
 
-I'm co-editing a DTRAP special issue on unconventional malware. Submit your best papers! [CFP](https://dtrap-blog.acm.org/2022/05/25/special-issue-on-memory-based-malware-and-other-unconventional-threats/) [Extended CFP](https://dtrap-blog.acm.org/2022/05/27/extended-call-for-papers/) [Mentoring Program](https://dtrap-blog.acm.org/2022/05/31/dtraps-mentoring-program/) [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
-
-I will teach a new security course in 2023. [Take a look here](https://marcusbotacin.github.io/teaching/ml-1)
-
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
@@ -117,15 +113,17 @@ Academic Community Services
     * National Science Foundation (NSF) Panelist
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
-* Program Committee member:
+* Program Committee member (9):
     * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
-    * Program Committee member for Conference on Computer and Communications Security (CCS) 2023 (Software Track) (TBA).
-    * ACM Annual Computer Security Applications Conference (ACSAC) 2023 (TBA)
+    * ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2024 (TBA)
+    * [ACM Conference on Computer and Communications Security (CCS) 2023 (Software Track)](https://www.sigsac.org/ccs/CCS2023/orgs-program.html).
+    * [ACM Annual Computer Security Applications Conference (ACSAC) 2023](https://www.acsac.org/2023/committees/program/)
     * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)](https://raid2023.org/committees.html)
     * [International Workshop on Re-design Industrial Control Systems with Security (RICSS), EuroS&P23](https://ricssworkshop.github.io/organization.html)
+    * [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers)
     * [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers)
     * [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
-* Artifact Evaluation Committee:
+* Artifact Evaluation Committee (3):
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
@@ -153,7 +151,7 @@ Publications Summary
     * ACM Computing Surveys (CSUR): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 11 papers in International conferences.
+* 12 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
     * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 1
@@ -161,6 +159,7 @@ Publications Summary
     * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
+    * Workshop on Offensive Technologies (WOOT): 1
 * 12 papers in Brazilian conferences:
     * Check out the [SBC library](https://sol.sbc.org.br/index.php/indice)
 * 2 book chapters (in Portuguese):
@@ -171,4 +170,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 70 acknowledged reviews.
+**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 83 acknowledged reviews.
