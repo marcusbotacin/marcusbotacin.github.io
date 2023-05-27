@@ -127,7 +127,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 12 journals:
+* Ad-hoc reviewer for 13 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * Cell: Patterns
@@ -137,6 +137,7 @@ Academic Community Services
     * IEEE Transactions on Dependable and Secure Computing (TDSC)
     * IEEE Transactions on Information Forensics and Security (TIFS) 
     * IEEE Transactions on Mobile Computing (TMC)
+    * IEEE Transactions on Emerging Topics in Computing (TETC)
     * Springer Computing
     * Springer International Journal of Information Security
     * Wiley Journal of Software: Evolution and Process
@@ -170,4 +171,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 83 acknowledged reviews.
+**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 85 acknowledged reviews.
