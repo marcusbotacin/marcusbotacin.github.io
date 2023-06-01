@@ -40,7 +40,24 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of a hardware-assisted malware detection endpoint.
 
-(co)Advised Students
+Advised Students (At TAMU)
+======
+* Parul Damahe 
+  * MSc - Project-Based (2023-In Progress)
+* Pranav Taukari 
+  * MSc - Project-Based (2023-In Progress)
+* Sidharth Anil 
+  * MSc - Project-Based (2023/5-In Progress)
+* Soumyajyoti Dutta 
+  * MSc - Project-Based (2023/5-In Progress)
+* Snehith Bikumandla 
+  * MSc - Project-Based (2023-In Progress)
+* John Ammon 
+  * Undergrad - Project-based (2023/5-In Progress)
+* Uros Stanic 
+  * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
+
+(co)Advised (Undergrad) Students (In Brazil)
 ======
 * Lucas Baganha Galante (UNICAMP, 2017-2019)
   * Linux Malware and ML-based malware detection.
