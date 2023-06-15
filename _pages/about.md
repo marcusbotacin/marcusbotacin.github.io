@@ -144,7 +144,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 13 journals:
+* Ad-hoc reviewer for 14 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * Cell: Patterns
@@ -157,6 +157,7 @@ Academic Community Services
     * IEEE Transactions on Emerging Topics in Computing (TETC)
     * Springer Computing
     * Springer International Journal of Information Security
+    * Springer The Journal of SuperComputing
     * Wiley Journal of Software: Evolution and Process
 
 Publications Summary
