@@ -130,13 +130,14 @@ Academic Community Services
     * National Science Foundation (NSF) Panelist
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
-* Program Committee member (9):
+* Program Committee member (10):
     * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
     * ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2024 (TBA)
     * [ACM Conference on Computer and Communications Security (CCS) 2023 (Software Track)](https://www.sigsac.org/ccs/CCS2023/orgs-program.html).
     * [ACM Annual Computer Security Applications Conference (ACSAC) 2023](https://www.acsac.org/2023/committees/program/)
     * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)](https://raid2023.org/committees.html)
     * [International Workshop on Re-design Industrial Control Systems with Security (RICSS), EuroS&P23](https://ricssworkshop.github.io/organization.html)
+    * The 15th International Workshop on Cyberspace Security and Artificial Intelligence (CAI-2023)
     * [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers)
     * [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers)
     * [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
