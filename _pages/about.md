@@ -14,6 +14,8 @@ Announcements
 ======
 I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm looking for new Ph.D., Masters, and undergraduate students! [Check the research ideas and prospective students page](https://marcusbotacin.github.io/research/)
 
+New grant on hardware-assisted malware detection. Check it [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false)
+
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
@@ -36,9 +38,12 @@ Employment
 
 Other Professional Activities
 ======
-* CYMDALL, Israel
+* [CYMDALL](https://www.cymdall.com/), Israel
   * 2023 - Scientific Advisory Board Member
     * Development of a hardware-assisted malware detection endpoint.
+* [AppThreat](https://appthreat.com/) - UK
+  * 2023 - Scientific Advisory Board Member
+    * Development of open-source security solutions.
 
 Currently Advised Students (At TAMU)
 ======
@@ -90,6 +95,10 @@ Research Interests
 * Hardware-Assisted Security Solutions
 * Reverse Engineering
   
+Research Grants
+======
+* SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false)
+
 Academic Awards
 ======
 * Top-3 Best PhD Thesis in Security - Brazilian Computer Society (SBC) - 2022
@@ -193,4 +202,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 85 acknowledged reviews.
+**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 95+ acknowledged reviews.
