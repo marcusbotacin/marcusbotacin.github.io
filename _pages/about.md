@@ -97,7 +97,7 @@ Research Interests
   
 Research Grants
 ======
-* SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false)
+* NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false)
 
 Academic Awards
 ======
