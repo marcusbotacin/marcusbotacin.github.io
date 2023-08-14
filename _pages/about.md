@@ -14,7 +14,7 @@ Announcements
 ======
 I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm looking for new Ph.D., Masters, and undergraduate students! [Check the research ideas and prospective students page](https://marcusbotacin.github.io/research/)
 
-New grant on hardware-assisted malware detection. Check it [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false)
+New grant on hardware-assisted malware detection. Check it [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
 
 Education
 ======
@@ -97,7 +97,7 @@ Research Interests
   
 Research Grants
 ======
-* NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false)
+* NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
 
 Academic Awards
 ======
