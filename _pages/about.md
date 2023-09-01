@@ -176,7 +176,7 @@ Academic Community Services
 
 Publications Summary
 ======
-* 18 papers published in international journals.
+* 16 papers published in international journals.
     * Springer Journal in Computer Virology: 4
     * ACM Transactions on Privacy and Security (TOPS): 3
     * Elsevier Computers and Security: 3
