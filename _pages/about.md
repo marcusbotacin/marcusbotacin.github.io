@@ -45,10 +45,8 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU)
+Currently Advised Students (At TAMU): 5
 ======
-* Parul Damahe 
-  * MSc - Project-Based (2023-In Progress)
 * Sidharth Anil 
   * MSc - Project-Based (2023/5-In Progress)
 * Soumyajyoti Dutta 
@@ -60,12 +58,14 @@ Currently Advised Students (At TAMU)
 * Uros Stanic 
   * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
 
-Previously Advised Students (At TAMU)
+Previously Advised Students (At TAMU): 2
 ======
+* Parul Damahe 
+  * MSc - Project-Based (2023-8/2023)
 * Pranav Taukari 
   * MSc - Project-Based (4/2023-6/2023)
 
-Previously (co)Advised (Undergrad) Students (In Brazil)
+Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
 * Lucas Baganha Galante (UNICAMP, 2017-2019)
   * Linux Malware and ML-based malware detection.
