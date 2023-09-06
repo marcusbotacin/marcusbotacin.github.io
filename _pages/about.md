@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Mar/2023)
+Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Sep/2023)
 
 Announcements
 ======
