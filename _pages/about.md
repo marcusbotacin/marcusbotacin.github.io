@@ -47,23 +47,27 @@ Other Professional Activities
 
 Currently Advised Students (At TAMU): 5
 ======
+* Bhavan Dondapati 
+  * MSc - Project-Based (2023/8-In Progress)
+* Manoj Reddy Gurram
+  * MSc - Project-Based (2023/8-In Progress)
 * Sidharth Anil 
   * MSc - Project-Based (2023/5-In Progress)
 * Soumyajyoti Dutta 
   * MSc - Project-Based (2023/5-In Progress)
-* Snehith Bikumandla 
-  * MSc - Project-Based (2023-In Progress)
 * John Ammon 
   * Undergrad - Project-based (2023/5-In Progress)
-* Uros Stanic 
-  * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
 
-Previously Advised Students (At TAMU): 2
+Previously Advised Students (At TAMU): 4
 ======
 * Parul Damahe 
   * MSc - Project-Based (2023-8/2023)
 * Pranav Taukari 
   * MSc - Project-Based (4/2023-6/2023)
+* Snehith Bikumandla 
+  * MSc - Project-Based (2023-8/2023)
+* Uros Stanic 
+  * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
 
 Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
