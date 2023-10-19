@@ -121,6 +121,7 @@ Academic Awards
   * Prize for: *"Malware Variants Identification in Practice"*, Botacin et al.
   * Check [Here](https://sbseg2019.ime.usp.br/SBSeg2019_files/propaganda-premio-principal-completo-mencao2.jpg)
 * Travel Grant - Student Diversity Grant - USENIX ENIGMA - 2019
+* Noteworthy reviewer for [RAID 2023](https://twitter.com/chrossow/status/1715037102973309026)
 
 Contest Prizes
 ======
