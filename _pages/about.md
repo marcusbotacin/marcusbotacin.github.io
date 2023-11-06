@@ -16,6 +16,8 @@ I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/pro
 
 New grant on hardware-assisted malware detection. Check it [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
 
+Looking for a brief overview of my research? Check these [slides](https://marcusbotacin.github.io/files/research_overview_botacin.pdf)
+
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
