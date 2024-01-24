@@ -151,9 +151,11 @@ Academic Community Services
     * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
-* Program Committee member (9):
+* Program Committee (PC) Membership (11):
+    * [Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P24)](https://worma.gitlab.io/2024/)
+    * [ACM Conference on Computer and Communications Security (CCS) 2024 (Software Track)](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html).
     * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
-    * ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2024 (TBA)
+    * [ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2024](https://asiaccs2024.sutd.edu.sg/program-committee/)
     * [ACM Conference on Computer and Communications Security (CCS) 2023 (Software Track)](https://www.sigsac.org/ccs/CCS2023/orgs-program.html).
     * [ACM Annual Computer Security Applications Conference (ACSAC) 2023](https://www.acsac.org/2023/committees/program/)
     * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)](https://raid2023.org/committees.html)
