@@ -47,25 +47,37 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 5
+Currently Advised Students (At TAMU): 11
 ======
+* Seyyed Ali Ayati
+  * PhD - (2023/10-In Progress)
+* Soumyajyoti Dutta 
+  * PhD - (2024-In Progress)
+  * MSc - Project-Based (2023/5-2023/12)
 * Bhavan Dondapati 
   * MSc - Project-Based (2023/8-In Progress)
 * Manoj Reddy Gurram
   * MSc - Project-Based (2023/8-In Progress)
 * Sidharth Anil 
   * MSc - Project-Based (2023/5-In Progress)
-* Soumyajyoti Dutta 
-  * MSc - Project-Based (2023/5-In Progress)
+* Akshat Punjabi
+  * MSc - Project-Based (2023/10-In Progress)
+* Sahil Salunkhe
+  * MSc - Project-Based (2023/8-In Progress)
+* Anushka Garg
+  * Directed Studies (2024-In Progress)
+* Pranav Taukari 
+  * Directed Studies (2024-In Progress)
+  * MSc - Project-Based (4/2023-6/2023)
 * John Ammon 
   * Undergrad - Project-based (2023/5-In Progress)
+* Svettlira Van Jakovich 
+  * Undegraduate Thesis (2023/8-In Progress)
 
-Previously Advised Students (At TAMU): 4
+Previously Advised Students (At TAMU): 3
 ======
 * Parul Damahe 
   * MSc - Project-Based (2023-8/2023)
-* Pranav Taukari 
-  * MSc - Project-Based (4/2023-6/2023)
 * Snehith Bikumandla 
   * MSc - Project-Based (2023-8/2023)
 * Uros Stanic 
