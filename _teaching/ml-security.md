@@ -46,10 +46,12 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - The role of AV updates.
         - AV scans in the cloud.
         - Non-negative Neural Networks (NNs) against evasion.
-    * Outcomes: 
+    * Outcomes (2023): 
         - The student Sidhart Baveja created a blog on ML for security. [Check it here](https://ml-to-cs.sidharthbaveja.com/)
         - The student Sidharth Anil created a mind map for this paper. [Check it here](https://gitmind.com/app/docs/mo1h217e)
 * Topic 1.2 [Malware Detection on Highly Imbalanced Data through Sequence Modeling](https://dl.acm.org/doi/10.1145/3338501.3357374)
+    * Outcomes (2024):
+        - The student Ali Seyed created a blog on ML for security. [Check it here](https://medium.com/@seyyedaliayati/machine-learning-for-malware-detection-597067ba00f3)
     * Concepts:
         - Traditional Machine Learning (ML) vs. Deep Learning (DL) algorithms.
         - Imbalance in endpoint files vs. Imbalance in malware repositories.
