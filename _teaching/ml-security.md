@@ -51,6 +51,7 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
         - The student Sidharth Anil created a mind map for this paper. [Check it here](https://gitmind.com/app/docs/mo1h217e)
     * Outcomes (2024):
         - The student Ali Seyed created a blog on ML for security. [Check it here](https://medium.com/@seyyedaliayati/machine-learning-for-malware-detection-597067ba00f3)
+        - The student Ayushri Jaim created a blog on ML for security. [Check it here](https://ayushrijain.hashnode.dev/machine-learning-for-malware-detection)
 * Topic 1.2 [Malware Detection on Highly Imbalanced Data through Sequence Modeling](https://dl.acm.org/doi/10.1145/3338501.3357374)
     * Concepts:
         - Traditional Machine Learning (ML) vs. Deep Learning (DL) algorithms.
