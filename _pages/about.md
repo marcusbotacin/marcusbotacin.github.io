@@ -190,6 +190,7 @@ Academic Community Services
     * Elsevier Internet of Things and Cyber-Physical Systems (IOTCPS)
     * Elsevier Journal of Information Security and Applications (JISA)
     * IEEE Communications
+    * IEEE Journal of Radio Frequency Identification (JRFID)
     * IEEE Open Journal of the Computer Society (OJCS)
     * IEEE Security and Privacy Magazine
     * IEEE Transactions on Consumer Electronics (TCE)
