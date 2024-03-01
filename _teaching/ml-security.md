@@ -136,7 +136,7 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 		- Conformal Evaluation.
 		- Statistics vs. Probabilities.
 		- P-values.
-		- Classifider credibility vs. Prediction confidence.
+		- Classifier credibility vs. Prediction confidence.
 * Topic 5.2 [Transcending TRANSCEND: Revisiting Malware Classification in the Presence of Concept Drift](https://ieeexplore.ieee.org/document/9833659)
 	* Concepts:
 		- Pipeline of detection strategies.
