@@ -180,7 +180,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 30 journals:
+* Ad-hoc reviewer for 31 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -202,6 +202,7 @@ Academic Community Services
     * IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
     * IEEE Transactions on Mobile Computing (TMC)
     * IEEE Transactions on Network and Service Management (TNSM)
+    * IEEE Transactions on Reliability (TR)
     * IEEE Transactions on Software Engineering (TSE)
     * Springer Artificial Intelligence Review
     * Springer Computing
@@ -242,4 +243,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 100+ acknowledged reviews.
+**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 150+ acknowledged reviews.
