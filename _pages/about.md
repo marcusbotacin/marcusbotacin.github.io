@@ -180,7 +180,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 35 journals:
+* Ad-hoc reviewer for 36 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -213,6 +213,7 @@ Academic Community Services
     * Springer The Journal of SuperComputing
     * Taylor and Francis' Network: Computation in Neural Systems (TNET)
     * Taylor and Francis' Deviant Behavior (UDBH)
+    * Wiley Concurrency and Computation: Practice and Experience
     * Wiley Expert Systems
     * Wiley Journal of Software: Evolution and Process
     * Wiley Journal of Software: Practice and Experience
