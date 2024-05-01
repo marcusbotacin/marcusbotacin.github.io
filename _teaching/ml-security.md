@@ -266,13 +266,34 @@ TAMU students can already enroll in CSCE689 via the Howdy! system.
 
 ## Challenge
 
-* Results
+* Results (2023)
 	* Defense
 		- Syed Wall and Yasir Farrukh won the defense challenge!
 	* Attack
 		- Veronika Maragulova, Sidharth Baveja, Sidharth Anil, and Soumyajyoti Dutta won the attack challenge!
 		- See the winner report [here](https://ml-to-cs.sidharthbaveja.com/competition/)
-	
+
+* Results (2024)
+	* Defense
+		- Sidharth Arivarasan, Sahil Salunkhe, Ali Ayati won the defense challenge!
+	* Attack
+		- Akshat Punjabi, Akshat Pandey, and Ayushri Jain won the attack challenge!
+
+## 
+
+* Public Detection Models (2023):
+a	* Multiple Students: DockerHub
+		- yasirali12/malwaredetector
+		- felzek/malware-classifier
+		- amithmkini/cyberai
+		- yasirali12/pipeline
+		- sidbav/689-final-submission
+		- yasirali12/model
+		- felzek/defender
+
+* Public Detection Models (2024):
+	* Bhavan Dondapati, Vishal Vardhan Adepu, and Rohith Yogi Nomula
+		- DockerHub: vva2/defender - Version: 1.0.2
 
 ## ChatGPT Fun
 
