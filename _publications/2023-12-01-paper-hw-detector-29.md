@@ -6,7 +6,7 @@ excerpt: 'My co-authored paper discussing the concept of a hardware detector for
 date: 2023-12-01
 venue: 'Annual Computer Security Applications Conference (ACSAC)'
 paperurl: 'https://www.acsac.org/'
-citation: 'Botacin et al. (2023). &quot;Machine Learning (In) Security: A Stream of Problems&quot; <i>ACM DTRAP</i>. 1(1).'
+citation: 'Botacin et al. (2023). &quot;Detecting Memory Injections Using a Hardware Monitor&quot; <i>ACM ACSAC</i>. 1(1).'
 ---
 My co-authored paper discussing the concept of a hardware detector for memory injections.
 
