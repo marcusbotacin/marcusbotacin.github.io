@@ -164,7 +164,11 @@ Academic Community Services
     * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers)
-* Program Committee (PC) Membership (11):
+* Program Committee (PC) Membership (15):
+    * International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024) (TBA)
+    * International Workshop on Re-design Industrial Control Systems with Security (RICSS), ACM CCS2024 (TBA)
+    * Network and Distributed System Security (NDSS) Symposium 2025 (TBA)
+    * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2024
     * [Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P24)](https://worma.gitlab.io/2024/)
     * [ACM Conference on Computer and Communications Security (CCS) 2024 (Software Track)](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html).
     * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
@@ -232,7 +236,7 @@ Publications Summary
     * ACM Digital Threats: Research and Practice (DTRAP): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 12 papers in International conferences.
+* 13 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
     * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 1
@@ -240,8 +244,9 @@ Publications Summary
     * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
+    * USENIX Security: 1
     * Workshop on Offensive Technologies (WOOT): 1
-* 12 papers in Brazilian conferences:
+* 19 papers in Brazilian conferences:
     * Check out the [SBC library](https://sol.sbc.org.br/index.php/indice)
 * 2 book chapters (in Portuguese):
   * Binary Analysis on Modern Platforms (SBSeg short course)
