@@ -248,6 +248,8 @@ Publications Summary
     * Workshop on Offensive Technologies (WOOT): 1
 * 19 papers in Brazilian conferences:
     * Check out the [SBC library](https://sol.sbc.org.br/index.php/indice)
+    * You can also check them out [Here](https://marcusbotacin.github.io/files/br.papers/)
+
 * 2 book chapters (in Portuguese):
   * Binary Analysis on Modern Platforms (SBSeg short course)
   * Introduction to Reverse Engineering (SBSeg short course)
