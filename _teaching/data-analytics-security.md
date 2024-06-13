@@ -2,7 +2,7 @@
 title: "Data Analytics for Cybersecurity"
 collection: teaching
 type: "Topics"
-permalink: /teaching/ml-1
+permalink: /teaching/data-analytics-1
 venue: "TAMU"
 date: 2024-08-01
 location: "USA"
