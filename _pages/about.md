@@ -18,6 +18,8 @@ New grant on hardware-assisted malware detection. Check it [here](https://www.ns
 
 Looking for a brief overview of my research? Check these [slides](https://marcusbotacin.github.io/files/research_overview_botacin.pdf)
 
+I will teach my cybersecurity course under the data science umbrella this Fall. Please, enroll into CSCE 704-602. My approach will be similar to what I did in previous semesters.
+
 Education
 ======
 * PhD in Computer Science, Federal University of Paraná (UFPR-Brazil), 2021
