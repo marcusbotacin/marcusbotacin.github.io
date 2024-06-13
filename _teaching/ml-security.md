@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning-Based CyberDefenses"
 collection: teaching
-type: "Topics"
+type: "Special Topics"
 permalink: /teaching/ml-1
 venue: "TAMU"
 date: 2023-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Data Analytics for Cybersecurity"
 collection: teaching
-type: "Topics"
+type: "Regular Grad Course"
 permalink: /teaching/data-analytics-1
 venue: "TAMU"
 date: 2024-08-01
