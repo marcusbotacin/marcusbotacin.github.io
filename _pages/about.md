@@ -186,7 +186,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 46 journals:
+* Ad-hoc reviewer for 47 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -221,6 +221,7 @@ Academic Community Services
     * IOS Press Journal of Intelligent & Fuzzy Systems (IFS)
     * PLOS One (PONE)
     * Springer Artificial Intelligence Review
+    * Springer Cluster Computing
     * Springer Computing
     * Springer International Journal of Information Security
     * Springer Journal of Computer Virology and Hacking Techniques (JCVHT)
@@ -268,4 +269,4 @@ Publications Summary
 
 **NOTICE 2**: Check [Google Scholar](https://scholar.google.com/citations?user=Y8JHVbcAAAAJ) for updated paper statistics.
 
-**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 150+ acknowledged reviews.
+**NOTICE 3**: Check [Web Of Science](https://www.webofscience.com/wos/author/record/2102545) for an updated (but incomplete) tracking of paper reviews. Currently: 200+ acknowledged reviews.
