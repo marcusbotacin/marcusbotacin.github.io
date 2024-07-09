@@ -49,39 +49,55 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 11
+Currently Advised Students (At TAMU): 16
 ======
 * Seyyed Ali Ayati
   * PhD - (2023/10-In Progress)
 * Soumyajyoti Dutta 
   * PhD - (2024-In Progress)
   * MSc - Project-Based (2023/5-2023/12)
+* Eden Garza
+  * PhD - (2024/Fall-In Progress)
+* Mabon Ninan
+  * PhD - (2024/Fall-In Progress)
+* Nhat Nguyen
+  * MSc Thesis - (2024/Summer - In Progress)
 * Bhavan Dondapati 
   * MSc - Project-Based (2023/8-In Progress)
 * Manoj Reddy Gurram
   * MSc - Project-Based (2023/8-In Progress)
-* Sidharth Anil 
-  * MSc - Project-Based (2023/5-In Progress)
 * Akshat Punjabi
   * MSc - Project-Based (2023/10-In Progress)
 * Sahil Salunkhe
-  * MSc - Project-Based (2023/8-In Progress)
-* Anushka Garg
-  * Directed Studies (2024-In Progress)
-* Pranav Taukari 
-  * Directed Studies (2024-In Progress)
-  * MSc - Project-Based (4/2023-6/2023)
+  * MSc - Volunteer Project-Based (2023/8-In Progress)
+* Mohina Ahmadi
+  * MSc - Volunteer Summer Internship (2024/Summer)
 * John Ammon 
   * Undergrad - Project-based (2023/5-In Progress)
-* Svettlira Van Jakovich 
-  * Undegraduate Thesis (2023/8-In Progress)
-
-Previously Advised Students (At TAMU): 3
-======
-* Parul Damahe 
-  * MSc - Project-Based (2023-8/2023)
+  * NSF REU
+* George Demetriou
+  * Summer Internship - Halliburton Program - (2024/Summer)
+* Shrey Joshi
+  * Summer Internship - Halliburton Program - (2024/Summer)
+* Jayesh Tripathi
+  * Alumni Project (2024/4-In Progress)
+* Rohan Dalvi
+  * Alumni Project (2024/4-In Progress)
 * Snehith Bikumandla 
+  * Alumni Project (2024/7-In Progress)
   * MSc - Project-Based (2023-8/2023)
+
+Previously Advised Students (At TAMU): 5
+======
+* Anushka Garg
+  * Directed Studies (2024/Spring)
+* Parul Damahe 
+  * MSc - Project-Based (2023/Summer)
+* Pranav Taukari 
+  * Directed Studies (2024/Spring)
+  * MSc - Project-Based (4/2023-6/2023)
+* Sidharth Anil 
+  * MSc - Project-Based (2023/5-2024/6)
 * Uros Stanic 
   * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
 
