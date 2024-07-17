@@ -8,4 +8,4 @@ date: 2024-07-17
 location: "Brazil"
 ---
 
-My talk (In Portuguese) about basic security concepts. [Slides](https://marcusbotacin.github.io/files/infraree.pdf) [Video](https://www.youtube.com/watch?v=KORJukY9fOU)
+My talk (In Portuguese) about basic security concepts. [Slides](https://marcusbotacin.github.io/files/infrarede.pdf) [Video](https://www.youtube.com/watch?v=KORJukY9fOU)
