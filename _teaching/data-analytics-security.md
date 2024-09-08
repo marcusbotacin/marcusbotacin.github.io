@@ -14,7 +14,6 @@ We added a few new topics this semester, as follows:
 
 * Topic 1.2 [Humans vs. Machines in Malware Classification](https://www.usenix.org/conference/usenixsecurity23/presentation/aonzo)
     * Concepts:
- * Concepts:
         - Malware definitions.
         - Maliciousness vs. Behaviors.
         - Explainability and Feature Selection.
