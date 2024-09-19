@@ -1,7 +1,7 @@
 ---
 title: "Towards more realistic evaluations: The impact of label delays in malware detection pipelines"
 collection: publications
-permalink: /publication/2024-09-01-paper-label-delays-33.md
+permalink: /publication/2024-09-01-paper-label-delays-33
 excerpt: 'My paper on label delays in malware classifiers.'
 date: 2024-09-01
 venue: 'Computers & Security'
