@@ -267,9 +267,10 @@ Publications Summary
     * ACM Digital Threats: Research and Practice (DTRAP): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 13 papers in International conferences.
+* 15 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
+    * ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID): 2
     * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 1
     * ACM Availability, Reliability and Security (ARES): 1
     * ACM Conference on Code Generation and Optimization (CGO): 1
