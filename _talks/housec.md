@@ -8,4 +8,4 @@ date: 2024-09-23
 location: "USA"
 ---
 
-My talk about automated malware creation and suggested defenses. [Slides](https://marcusbotacin.github.io/files/housec.pdf)
+My talk about automated malware creation and suggested defenses. [Slides](https://marcusbotacin.github.io/files/housec.pdf) [Video](https://www.youtube.com/watch?v=5lk_xklzcMg)
