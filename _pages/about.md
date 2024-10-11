@@ -258,13 +258,13 @@ Academic Community Services
 
 Publications Summary
 ======
-* 17 papers published in international journals.
+* 18 papers published in international journals.
     * Springer Journal in Computer Virology: 4
     * Elsevier Computers and Security: 4
     * ACM Transactions on Privacy and Security (TOPS): 3
+    * ACM Digital Threats: Research and Practice (DTRAP): 2
     * Elsevier Expert Systems With Applications (ESWA): 2
     * ACM Computing Surveys (CSUR): 1
-    * ACM Digital Threats: Research and Practice (DTRAP): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
 * 15 papers in International conferences.
