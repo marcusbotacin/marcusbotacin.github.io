@@ -267,7 +267,7 @@ Publications Summary
     * ACM Computing Surveys (CSUR): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 15 papers in International conferences.
+* 16 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
     * ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID): 2
