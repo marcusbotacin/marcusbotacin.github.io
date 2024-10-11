@@ -1,7 +1,7 @@
 ---
 title: "Fuzzing and Symbolic Execution for Multipath Malware Tracing: Bridging Theory and Practice via Survey and Experiments"
 collection: publications
-permalink: /publication/2024-10-10-paper-mwfuzz-37.md
+permalink: /publication/2024-10-10-paper-mwfuzz-37
 excerpt: 'My paper investigating multipath malware execution via fuzzing and symbolic execution.'
 date: 2024-10-10
 venue: 'DTRAP'
