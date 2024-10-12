@@ -20,3 +20,7 @@ We added a few new topics this semester, as follows:
         - Obfuscation and PE resources.
     * Outcomes (2024):
         - The student Mahbub Alam created a blog on ML for security. [Check it here](https://itsmahbub.github.io/machine-learning-in-malware-detection/)
+
+* Topic 4.4 [Adversarial Training for Raw-Binary Malware Classifiers](https://www.usenix.org/conference/usenixsecurity23/presentation/lucas) and [Moving Target Defense against Adversarial Machine Learning](https://dl.acm.org/doi/10.1145/3474370.3485662)
+    * Concepts:
+        - TBD
