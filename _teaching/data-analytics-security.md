@@ -1,5 +1,5 @@
 ---
-title: "Data Analytics for Cybersecurity"
+title: "CSCE 704: Data Analytics for Cybersecurity"
 collection: teaching
 type: "Regular Grad Course"
 permalink: /teaching/data-analytics-1
@@ -25,3 +25,8 @@ We added a few new topics this semester, as follows:
     * Concepts:
         - Adversarial Retraining.
         - Moving Target Defenses (MTD).
+
+* Topic 5.5 [GPThreats-3: Is Automatic Malware Generation a Threat?](https://marcusbotacin.github.io/publication/2023-05-01-paper-gpt-number-27)
+    * Concepts:
+        - TBD.
+        - TBD.

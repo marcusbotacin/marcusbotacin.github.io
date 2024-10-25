@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning-Based CyberDefenses"
+title: "CSCE 689: Machine Learning-Based CyberDefenses"
 collection: teaching
 type: "Special Topics"
 permalink: /teaching/ml-1
