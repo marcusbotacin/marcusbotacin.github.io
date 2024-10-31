@@ -28,5 +28,8 @@ We added a few new topics this semester, as follows:
 
 * Topic 5.5 [GPThreats-3: Is Automatic Malware Generation a Threat?](https://marcusbotacin.github.io/publication/2023-05-01-paper-gpt-number-27)
     * Concepts:
-        - TBD.
-        - TBD.
+	- Divide-and-Conquer and Malware Building Blocks.
+	- Prompt Engineering and Jailbreaking.
+        - Efficiency vs. Effectiveness.
+        - Server-side polymorphism.
+	- Attack-as-a-Service
