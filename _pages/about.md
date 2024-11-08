@@ -217,8 +217,9 @@ Academic Community Services
     * Elsevier Forensic Science International: Digital Investigation (Digital Investigation)
     * Elsevier Internet of Things and Cyber-Physical Systems (IOTCPS)
     * Elsevier Journal of Information Security and Applications (JISA)
-    * Elsevier The Journal of Systems & Software (JSS)
+    * Elsevier Journal of Systems & Software (JSS)
     * Elsevier Machine Learning With Applications (MLWA)
+    * Elsevier Microprocessors and Microsystems
     * IEEE Communications
     * IEEE Consumer Electronics Magazine (CEMag)
     * IEEE Internet Computing (IC)
