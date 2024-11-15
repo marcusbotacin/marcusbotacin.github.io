@@ -33,3 +33,17 @@ We added a few new topics this semester, as follows:
         - Efficiency vs. Effectiveness.
         - Server-side polymorphism.
         - Attack-as-a-Service
+
+* Topic 7.1 [Lookin' Out My Backdoor! Investigating Backdooring Attacks Against DL-driven Malware Detectors](https://dl.acm.org/doi/10.1145/3605764.3623919)
+    * Concepts:
+	- Backdoor: Poisoning and Label-Flipping.
+        - Spaces: Feature, Problem, and Latent Spaces.
+	- STRIP Defense.
+
+* Topic 7.2 [Machine Unlearning](https://arxiv.org/abs/1912.03817)
+    * Concaepts:
+        - GDPR
+	- Machine Unlearning
+	- Backdoor Purification
+	- Access Control
+	- K-anonymization
