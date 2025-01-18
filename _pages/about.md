@@ -191,7 +191,8 @@ Academic Community Services
     * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
-* Program Committee (PC) Membership (16):
+* Program Committee (PC) Membership (17):
+    * [Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P25)](https://worma.gitlab.io/2025/)
     * International Conference on Applied Cryptography and Network Security (ACNS 2025) (TBD)
     * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)](https://raid2024.github.io/committees.html)
     * International Workshop on Re-design Industrial Control Systems with Security (RICSS), ACM CCS2024 (TBA)
