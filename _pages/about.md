@@ -49,7 +49,7 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 9
+Currently Advised Students (At TAMU): 10
 ======
 * Seyyed Ali Ayati
   * PhD - (2023/10-In Progress)
@@ -67,16 +67,16 @@ Currently Advised Students (At TAMU): 9
   * MSc Thesis - (2024/Summer - In Progress)
 * Akshat Punjabi
   * MSc - Project-Based (2023/10-In Progress)
-* John Ammon 
-  * Undergrad - Project-based (2023/5-In Progress)
-  * NSF REU (2024)
 * Tushar Premanand
-  * Alumni Project (2024/Fall - 2025/Spring)
-
-Previously Advised Students (At TAMU): 16
-======
+  * Alumni Project (2024/Fall -In Progress)
 * Ayushri Jain
+  * Alumni Project (2025/Spring -In Progress)
   * Directed Studies (2024/Fall)
+* Sushmita Pattanaik
+  * Alumni Project (2024/Fall -In Progress)
+
+Previously Advised Students (At TAMU): 15
+======
 * Anushka Garg
   * Directed Studies (2024/Spring)
 * Pranav Taukari 
@@ -107,8 +107,9 @@ Previously Advised Students (At TAMU): 16
   * Alumni Project (2024/Spring-2024/Fall)
 * Sai Akash Uppala
   * Alumni Project (2024/Fall)
-* Sushmita Pattanaik
-  * Alumni Project (2024/Fall)
+* John Ammon 
+  * Undergrad - Project-based (2023/5-2023/12)
+  * NSF REU (2024)
 
 Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
@@ -200,7 +201,7 @@ Academic Community Services
     * ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2024](https://asiaccs2024.sutd.edu.sg/program-committee/)
     * IEEE/ACM International Symposium on Microarchitecture (MICRO) [2024](https://microarch.org/micro57/committees/pc.php)
     * International Conference on Applied Cryptography and Network Security (ACNS 2025) [2025](http://acns2025.fordaysec.de/program-committee/)
-    * Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P25) [2025](https://worma.gitlab.io/2025/) [2024)](https://worma.gitlab.io/2024/)
+    * Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P25) [2025](https://worma.gitlab.io/2025/) [2024](https://worma.gitlab.io/2024/)
     * International Workshop on Re-design Industrial Control Systems with Security (RICSS) [2024](https://ricssworkshop.github.io/organization.html) [2023](https://ricssworkshop.github.io/organization.html)
 * Artifact Evaluation Committee (3):
     * USENIX Security 2020
