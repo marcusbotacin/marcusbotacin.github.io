@@ -191,24 +191,17 @@ Academic Community Services
     * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
 * Guest Editor:
     * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
-* Program Committee (PC) Membership (17):
-    * [Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P25)](https://worma.gitlab.io/2025/)
-    * International Conference on Applied Cryptography and Network Security (ACNS 2025) (TBD)
-    * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024)](https://raid2024.github.io/committees.html)
-    * International Workshop on Re-design Industrial Control Systems with Security (RICSS), ACM CCS2024 (TBA)
-    * Network and Distributed System Security (NDSS) Symposium 2025 (TBA)
-    * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2024
-    * [Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P24)](https://worma.gitlab.io/2024/)
-    * [ACM Conference on Computer and Communications Security (CCS) 2024 (Software Track)](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html).
-    * Network and Distributed System Security (NDSS) Symposium 2024 (TBA)
-    * [ACM Asia Conference on Computer and Communications Security (AsiaCCS) 2024](https://asiaccs2024.sutd.edu.sg/program-committee/)
-    * [ACM Conference on Computer and Communications Security (CCS) 2023 (Software Track)](https://www.sigsac.org/ccs/CCS2023/orgs-program.html).
-    * [ACM Annual Computer Security Applications Conference (ACSAC) 2023](https://www.acsac.org/2023/committees/program/)
-    * [International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)](https://raid2023.org/committees.html)
-    * [International Workshop on Re-design Industrial Control Systems with Security (RICSS), EuroS&P23](https://ricssworkshop.github.io/organization.html)
-    * [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers)
-    * [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers)
-    * [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
+* Program Committee (PC) Membership (20):
+    * USENIX Security [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers) [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers) [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
+    * ACM Conference on Computer and Communications Security (CCS) [2025](https://www.sigsac.org/ccs/CCS2025/program-committee/) [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html)
+    * Network and Distributed System Security (NDSS) Symposium [2025]() [2024]()
+    * ACM Annual Computer Security Applications Conference (ACSAC) [2024](https://www.acsac.org/2024/committees/program/) [2023](https://www.acsac.org/2023/committees/program/)
+    * International Symposium on Research in Attacks, Intrusions and Defenses (RAID) [2024](https://raid2024.github.io/committees.html) [2023](https://raid2023.org/committees.html)
+    * ACM Asia Conference on Computer and Communications Security (AsiaCCS) [2024](https://asiaccs2024.sutd.edu.sg/program-committee/)
+    * IEEE/ACM International Symposium on Microarchitecture (MICRO) [2024](https://microarch.org/micro57/committees/pc.php)
+    * International Conference on Applied Cryptography and Network Security (ACNS 2025) [2025](http://acns2025.fordaysec.de/program-committee/)
+    * Workshop on Rethinking Malware Analysis (WoRMA) - (EuroS&P25) [2025](https://worma.gitlab.io/2025/) [2024)](https://worma.gitlab.io/2024/)
+    * International Workshop on Re-design Industrial Control Systems with Security (RICSS) [2024](https://ricssworkshop.github.io/organization.html) [2023](https://ricssworkshop.github.io/organization.html)
 * Artifact Evaluation Committee (3):
     * USENIX Security 2020
     * USENIX WOOT 2020
