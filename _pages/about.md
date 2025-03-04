@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Sep/2023)
+Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Mar/2025)
 
 Announcements
 ======
@@ -49,7 +49,7 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 10
+Currently Advised Students (At TAMU): 15
 ======
 * Seyyed Ali Ayati
   * PhD - (2023/10-In Progress)
@@ -63,20 +63,34 @@ Currently Advised Students (At TAMU): 10
 * Uros Stanic 
   * PhD - (2025/Spring-In Progress)
   * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
-* Nhat Nguyen
-  * MSc Thesis - (2024/Summer - In Progress)
+* Giorgia di Pietro
+  * PhD visitor - Sapienza University of Rome - Spring/2025
 * Akshat Punjabi
-  * MSc - Project-Based (2023/10-In Progress)
+  * MSc - Project-Based (2023/10- In Progress)
+* Bhavan Dondapati 
+  * MSc - Project-Based (2023/8-2025/Spring)
+* Yash Phatak
+  * MSc - Project-Based (2023/8-2025/Spring)
 * Tushar Premanand
-  * Alumni Project (2024/Fall -In Progress)
+  * Alumni Project (2024/Fall - In Progress)
 * Ayushri Jain
-  * Alumni Project (2025/Spring -In Progress)
+  * Alumni Project (2025/Spring - In Progress)
   * Directed Studies (2024/Fall)
 * Sushmita Pattanaik
-  * Alumni Project (2024/Fall -In Progress)
+  * Alumni Project (2024/Fall - In Progress)
+* Zach Smith 
+  * Undergraduate - Research Course - 2025/Spring
+* Fady Seha 
+  *  Undergraduate - Research Course - 2025/Spring
+* John Ammon 
+  * Directed Studies (Spring/2025)
+  * NSF REU (2024)
+  * Undergrad - Project-based (2023/5-2023/12)
 
-Previously Advised Students (At TAMU): 15
+Previously Advised Students (At TAMU): 14
 ======
+* Nhat Nguyen
+  * MSc Thesis - (2024/Summer - 2025/Spring)
 * Anushka Garg
   * Directed Studies (2024/Spring)
 * Pranav Taukari 
@@ -89,8 +103,6 @@ Previously Advised Students (At TAMU): 15
   * MSc - Project-Based (2023/Summer)
 * Sidharth Anil 
   * MSc - Project-Based (2023/5-2024/6)
-* Bhavan Dondapati 
-  * MSc - Project-Based (2023/8-2025/Spring)
 * Manoj Reddy Gurram
   * MSc - Project-Based (2023/8-2025/SPring)
 * Sahil Salunkhe
@@ -107,9 +119,6 @@ Previously Advised Students (At TAMU): 15
   * Alumni Project (2024/Spring-2024/Fall)
 * Sai Akash Uppala
   * Alumni Project (2024/Fall)
-* John Ammon 
-  * Undergrad - Project-based (2023/5-2023/12)
-  * NSF REU (2024)
 
 Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
@@ -144,6 +153,11 @@ Research Interests
 Research Grants
 ======
 * NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
+
+Graduation Committees (At TAMU): 2
+======
+* Chair: Nhat Nguyen, CSE MSc - Spring/2025
+* Member: Atharva Girish Agashe - ECE MSc - Spring/2025 
 
 Academic Awards
 ======
@@ -185,6 +199,10 @@ Featured Talks
 * "Near-memory & In-Memory Detection of Fileless Malware" - Keynote at the Brazilian Security Symposium (SBSEG) 2023 - [Website](https://sbseg2023.ufjf.br/programacao/palestrantes/)
 * "Why Is Our Security Research Failing? Five Practices to Change!" [Page](https://www.usenix.org/conference/enigma2023/presentation/botacin) [Slides](files/enigma23.pdf) - USENIX ENIGMA 2023
 * "Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!" [Page](https://securityboulevard.com/2021/03/usenix-enigma-2021-marcus-botacins-does-your-threat-model-consider-country-and-culture-a-case-study-of-brazilian-internet-banking-security-to-show-that-it-should/) [Video](https://www.youtube.com/watch?v=5mrEJ83rBDY) - USENIX ENIGMA 2021
+
+Other Events
+======
+* US participant in the [NSF-FAPESP Workshop on Cybersecurity and Privacy (2025)](https://fapesp.br/nfwsecurity)
 
 Academic Community Services
 ======
