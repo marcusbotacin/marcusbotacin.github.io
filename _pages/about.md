@@ -87,6 +87,11 @@ Currently Advised Students (At TAMU): 15
   * NSF REU (2024)
   * Undergrad - Project-based (2023/5-2023/12)
 
+Graduated Students (At TAMU): 1
+======
+* Nhat Nguyen
+  * Msc - Spring/2025 - "AutoPYara: A Python/Java Framework for automatic YARA rule generation using semi-supervised clustering"
+
 Previously Advised Students (At TAMU): 14
 ======
 * Nhat Nguyen
