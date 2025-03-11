@@ -158,6 +158,7 @@ Research Interests
 Research Grants
 ======
 * NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
+* Laboratory of Physical Sciences (LPS) - YARA Generator - PI - 2025.
 
 Graduation Committees (At TAMU): 2
 ======
