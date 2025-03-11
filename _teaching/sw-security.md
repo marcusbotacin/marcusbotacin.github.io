@@ -64,7 +64,7 @@ Covered content:
     * Password Cracking, Rainbow Tables, and Salting.
     * Pseudo RNGs and Ransomware Key Recovery.
 * Automated Tools:
-    * Vulnerability Scanners: Static Analyzers.
+    * Vulnerability Scanners & Static Analyzers: CodeQL.
     * Fuzzing for Bug Finding with AFL.
     * Symbolic Execution with Angr.
 * Tracing:
