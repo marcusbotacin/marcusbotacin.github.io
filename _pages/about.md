@@ -301,7 +301,7 @@ Publications Summary
     * ACM Computing Surveys (CSUR): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 16 papers in International conferences.
+* 17 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
     * ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID): 2
@@ -309,6 +309,7 @@ Publications Summary
     * ACM Availability, Reliability and Security (ARES): 1
     * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
+    * IEEE Secure and Trustworthy Machine Learning (SATML): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
     * USENIX Security: 1
     * Workshop on Offensive Technologies (WOOT): 1
