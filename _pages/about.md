@@ -16,6 +16,8 @@ I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/pro
 
 New grant on hardware-assisted malware detection. Check it [here](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
 
+New grant on LLMs for security. Check it [here](https://engineering.tamu.edu/news/2025/02/chatgpt-for-computer-security.html)
+
 Looking for a brief overview of my research? Check these [slides](https://marcusbotacin.github.io/files/research_overview_botacin.pdf) (or [here](https://docs.google.com/presentation/d/1W1krbwVlj-VPuBThw_t7_LMMlhHdDY0q/edit?usp=sharing&ouid=113059293974706583528&rtpof=true&sd=true))
 
 I will teach my cybersecurity course under the data science umbrella this Fall. Please, enroll into CSCE 704-602. My approach will be similar to what I did in previous semesters.
