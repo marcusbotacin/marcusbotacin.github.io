@@ -111,4 +111,4 @@ The students were divided in teams that inspected real applications. They discov
 
 * Don't worry though. The students were also able to patch and verify patches in the applications: ![Patches](https://marcusbotacin.github.io/teaching/FIGS/2025-sw-15.png)
 
-All vulnerabilities were discovered to the developers.
+All vulnerabilities were disclosed to the developers.
