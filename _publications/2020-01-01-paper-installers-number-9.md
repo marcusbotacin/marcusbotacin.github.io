@@ -1,5 +1,5 @@
 ---
-title: "On the Security of Application Installers and Online Software Repositories Conference "
+title: "On the Security of Application Installers and Online Software Repositories"
 collection: publications
 permalink: /publication/2020-01-01-paper-installers-number-9
 excerpt: 'My paper about the security of application installers and software repositorires.'
