@@ -51,7 +51,7 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 15
+Currently Advised Students (At TAMU): 10
 ======
 * Seyyed Ali Ayati
   * PhD - (2023/10-In Progress)
@@ -65,39 +65,33 @@ Currently Advised Students (At TAMU): 15
 * Uros Stanic 
   * PhD - (2025/Spring-In Progress)
   * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
-* Giorgia di Pietro
-  * PhD visitor - Sapienza University of Rome - Spring/2025
-* Akshat Punjabi
-  * MSc - Project-Based (2023/10- In Progress)
-* Bhavan Dondapati 
-  * MSc - Project-Based (2023/8-2025/Spring)
 * Yash Phatak
   * MSc - Project-Based (2023/8-2025/Spring)
-* Tushar Premanand
-  * Alumni Project (2024/Fall - In Progress)
 * Ayushri Jain
   * Alumni Project (2025/Spring - In Progress)
   * Directed Studies (2024/Fall)
-* Sushmita Pattanaik
-  * Alumni Project (2024/Fall - In Progress)
 * Zach Smith 
   * Undergraduate - Research Course - 2025/Spring
 * Fady Seha 
   *  Undergraduate - Research Course - 2025/Spring
-* John Ammon 
-  * Directed Studies (Spring/2025)
-  * NSF REU (2024)
-  * Undergrad - Project-based (2023/5-2023/12)
+* Hiago Santos
+  * Visiting MSc - USP/Brazil - 2025/Spring
 
 Graduated Students (At TAMU): 1
 ======
 * Nhat Nguyen
   * Msc - Spring/2025 - "AutoPYara: A Python/Java Framework for automatic YARA rule generation using semi-supervised clustering"
 
-Previously Advised Students (At TAMU): 14
+Previously Advised Students (At TAMU): 22
 ======
+* Giorgia di Pietro
+  * PhD visitor - Sapienza University of Rome - Spring/2025
 * Nhat Nguyen
   * MSc Thesis - (2024/Summer - 2025/Spring)
+* Akshat Punjabi
+  * MSc - Project-Based (2023/10-2025/5)
+* Bhavan Dondapati 
+  * MSc - Project-Based (2023/8-2025/Spring)
 * Anushka Garg
   * Directed Studies (2024/Spring)
 * Pranav Taukari 
@@ -112,6 +106,10 @@ Previously Advised Students (At TAMU): 14
   * MSc - Project-Based (2023/5-2024/6)
 * Manoj Reddy Gurram
   * MSc - Project-Based (2023/8-2025/SPring)
+* John Ammon 
+  * Directed Studies (Spring/2025)
+  * NSF REU (2024)
+  * Undergrad - Project-based (2023/5-2023/12)
 * Sahil Salunkhe
   * MSc - Volunteer Project-Based (2023/Fall-2024/Spring)
 * Mohina Ahmadi
@@ -120,12 +118,20 @@ Previously Advised Students (At TAMU): 14
   * Summer Internship - Halliburton Program - (2024/Summer)
 * Shrey Joshi
   * Summer Internship - Halliburton Program - (2024/Summer)
+* Mitra Mukherjee
+  * Summer Internship - Halliburton Program - (2025/Summer)
+* Avinabh Sah
+  * Summer Internship - Halliburton Program - (2025/Summer)
 * Jayesh Tripathi
   * Alumni Project (2024/Spring-2024/Fall)
 * Rohan Dalvi
   * Alumni Project (2024/Spring-2024/Fall)
 * Sai Akash Uppala
   * Alumni Project (2024/Fall)
+* Tushar Premanand
+  * Alumni Project (2024/Fall - 2025/Spring)
+* Sushmita Pattanaik
+  * Alumni Project (2024/Fall - 2025/Spring)
 
 Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
