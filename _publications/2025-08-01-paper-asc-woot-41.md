@@ -1,12 +1,12 @@
 ---
-title: "Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms' Typo Correction"
+title: "Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms Typo Correction"
 collection: publications
 permalink: /publication/2025-08-1-paper-asc-woot-41
 excerpt: 'My student paper about making Acoustic Side Channels (ASCs) viable with vision transformers and LLMs.'
 date: 2025-08-01
 venue: 'USENIX WOOT'
 paperurl: 'https://www.usenix.org/conference/woot25/presentation/ayati'
-citation: 'Ayati et al. (2025). &quot;Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms' Typo Correction&quot; <i>USENIX WOOT</i>. 1(1).'
+citation: 'Ayati et al. (2025). &quot;Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms Typo Correction&quot; <i>USENIX WOOT</i>. 1(1).'
 ---
 My student paper about making Acoustic Side Channels (ASCs) viable with vision transformers and LLMs.
 
