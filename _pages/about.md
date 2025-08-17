@@ -274,8 +274,8 @@ Academic Community Services
     * IEEE Security and Privacy Magazine
     * IEEE Transactions on Artificial Intelligence (TAI)
     * IEEE Transactions on Cognitive Communications and Networking (TCCN)
-    * IEEE Transactions on Consumer Electronics (TCE)
     * IEEE Transacations on Computational Social Systems (TCSS)
+    * IEEE Transactions on Consumer Electronics (TCE)
     * IEEE Transactions on Cybernetics (CYB)
     * IEEE Transactions on Dependable and Secure Computing (TDSC)
     * IEEE Transactions on Emerging Topics in Computing (TETC)
@@ -320,18 +320,18 @@ Publications Summary
     * ACM Computing Surveys (CSUR): 1
     * IEEE Transactions on Dependable and Secure Computing (TDSC): 1
     * Elsevier Digital Investigation: 1
-* 18 papers in International conferences.
+* 19 papers in International conferences.
     * ACM Reversing and Offensive-oriented Trends Symposium (ROOTS): 3
     * Springer Information Security Conference (ISC): 3
     * ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID): 2
     * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 2
+    * Workshop on Offensive Technologies (WOOT): 2
     * ACM Availability, Reliability and Security (ARES): 1
     * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
     * IEEE Secure and Trustworthy Machine Learning (SATML): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
     * USENIX Security: 1
-    * Workshop on Offensive Technologies (WOOT): 1
     * The International Conference on Security and Cryptography (SECRYPT): 1
 * 18 papers in Brazilian conferences:
     * Check out the [SBC library](https://sol.sbc.org.br/index.php/indice)
