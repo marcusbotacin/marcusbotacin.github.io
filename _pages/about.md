@@ -325,7 +325,7 @@ Publications Summary
     * Springer Information Security Conference (ISC): 3
     * ACM International Symposium on Research in Attacks, Intrusions and Defenses (RAID): 2
     * Springer Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA): 2
-    * Workshop on Offensive Technologies (WOOT): 2
+    * (USENIX) Workshop on Offensive Technologies (WOOT): 2
     * ACM Availability, Reliability and Security (ARES): 1
     * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
