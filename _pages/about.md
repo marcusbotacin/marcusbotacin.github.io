@@ -245,7 +245,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 63 journals:
+* Ad-hoc reviewer for 64 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -261,6 +261,7 @@ Academic Community Services
     * Elsevier Forensic Science International: Digital Investigation (Digital Investigation)
     * Elsevier Internet of Things and Cyber-Physical Systems (IOTCPS)
     * Elsevier Journal of Information Security and Applications (JISA)
+    * Elsevier Journal of Network and Computer Applications (JNCA)
     * Elsevier Journal of Systems & Software (JSS)
     * Elsevier Machine Learning With Applications (MLWA)
     * Elsevier Microprocessors and Microsystems
