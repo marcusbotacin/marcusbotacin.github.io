@@ -227,8 +227,9 @@ Academic Community Services
 ======
 * Panel Member:
     * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
-* Guest Editor:
-    * ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
+* Journal Editor:
+    * Associate Editor for Elsevier Computers \& Security (2025-TBD)
+    * Guest Editor for ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
 * Program Committee (PC) Membership (21):
     * IEEE Security & Privacy [2026](https://www.ieee-security.org/TC/SP2026/cfpapers.html)
     * USENIX Security [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers) [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers) [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
