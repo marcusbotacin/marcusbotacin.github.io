@@ -245,7 +245,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 65 journals:
+* Ad-hoc reviewer for 66 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -281,6 +281,7 @@ Academic Community Services
     * IEEE Transactions on Cybernetics (CYB)
     * IEEE Transactions on Dependable and Secure Computing (TDSC)
     * IEEE Transactions on Emerging Topics in Computing (TETC)
+    * IEEE Transactions on Industrial Informatics (TII)
     * IEEE Transactions on Information Forensics and Security (TIFS) 
     * IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
     * IEEE Transactions on Mobile Computing (TMC)
