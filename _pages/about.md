@@ -191,6 +191,7 @@ Academic Awards
   * Prize for: *"Malware Variants Identification in Practice"*, Botacin et al.
   * Check [Here](https://sbseg2019.ime.usp.br/SBSeg2019_files/propaganda-premio-principal-completo-mencao2.jpg)
 * Travel Grant - Student Diversity Grant - USENIX ENIGMA - 2019
+* Notable Reviewer for [USENIX 2025](files/usenix_review_25.pdf)
 * Distinguished reviewer for [NDSS 2024](https://twitter.com/JoeBeOne/status/1763270533750427760)
 * Noteworthy reviewer for [RAID 2023](https://twitter.com/chrossow/status/1715037102973309026)
 * Top Reviewer for [ACSAC 2023](files/top_reviewer_acsac.pdf)
