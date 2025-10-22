@@ -47,3 +47,9 @@ We added a few new topics this semester, as follows:
 	- Backdoor Purification
 	- Access Control
 	- K-anonymization
+
+## Outcomes (2025)
+
+* The team (Mabon Ninan, Uros Stanic, Sandali Srivastava, Jess Cadena) contributed with two Wikipedia edits:
+    * [Concept Drift](https://en.wikipedia.org/wiki/Concept_drift)
+    * [ML-Based AVs](https://en.wikipedia.org/wiki/Antivirus_software#Machine_Learning_Detection)
