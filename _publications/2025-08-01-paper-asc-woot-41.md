@@ -13,3 +13,4 @@ My student paper about making Acoustic Side Channels (ASCs) viable with vision t
 [Publisher Version](https://www.usenix.org/system/files/woot25-ayati.pdf)
 [Publisher Slides](https://www.usenix.org/sites/default/files/conference/protected-files/woot25_slides_ayati.pdf)
 [Arxiv Version](https://arxiv.org/abs/2504.11622)
+[Video](https://www.youtube.com/watch?v=HyrpQjZ0T8w)
