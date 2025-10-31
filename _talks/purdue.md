@@ -8,4 +8,4 @@ date: 2025-10-29
 location: "USA"
 ---
 
-My talk about keeping ML-based malware detectors up-to-date. [Slides](https://marcusbotacin.github.io/files/purdue.pdf)
+My talk about keeping ML-based malware detectors up-to-date. [Slides](https://marcusbotacin.github.io/files/purdue.pdf) [Video](https://www.youtube.com/watch?v=0NkeCbpqfn0)
