@@ -215,7 +215,7 @@ Featured Talks
 * "Why Is Our Security Research Failing? Five Practices to Change!" [Page](https://www.usenix.org/conference/enigma2023/presentation/botacin) [Slides](files/enigma23.pdf) - USENIX ENIGMA 2023
 * "Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!" [Page](https://securityboulevard.com/2021/03/usenix-enigma-2021-marcus-botacins-does-your-threat-model-consider-country-and-culture-a-case-study-of-brazilian-internet-banking-security-to-show-that-it-should/) [Video](https://www.youtube.com/watch?v=5mrEJ83rBDY) - USENIX ENIGMA 2021
 
-Media COverage
+Media Coverage
 ======
 * Podcast interview for [Hou.Sec.Cast](https://www.buzzsprout.com/2215185/episodes/17069681)
 * My work being discussed at the [Segurança Legal](https://www.segurancalegal.com/2019/08/episodio-210-resumo-de-noticias/) (In Portuguese) Also [HERE](https://www.youtube.com/watch?v=_XuXkYh5_z8)
