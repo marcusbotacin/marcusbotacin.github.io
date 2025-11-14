@@ -52,6 +52,11 @@ We added a few new topics this semester, as follows:
 
 * Topic 5.1 was brokedown in two paper versions: [Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions](https://arxiv.org/abs/2108.09293) and [Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants](https://arxiv.org/abs/2208.09727)
 * Topic 5.7 now covers: [AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks](https://arxiv.org/abs/2208.09727)
+    * Concaepts:
+        - What is penetration testing? How LLMs can help with it?
+        - What are agent systems? Why do we need agents for LLMs?
+        - What are RAG systems? Why do LLMs need it?
+        - What is the difference of using LLMs as orchestrators and as exploit writters?
 
 ## Outcomes (2025)
 
