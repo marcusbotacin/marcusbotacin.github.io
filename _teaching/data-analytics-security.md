@@ -79,7 +79,7 @@ We added a few new topics this semester, as follows:
      * [Technologies@AI-assisted software development](https://en.wikipedia.org/wiki/AI-assisted_software_development#Technologies)
      * [Automated Code Review](https://en.wikipedia.org/wiki/Automated_code_review)
 
-* The team (Nick Truong, Kyle Easton, James Hou, Lyle Morris, Veronica Hu) contributed with the Wikipedia edit for:
+* The team (Bradley James, Roman Parker, Abel Gizaw, Kade Lieder, Ryan Kha) contributed with the Wikipedia edit for:
      * [Artificial Intelligence vs. Humans@Malware analysis](https://en.wikipedia.org/wiki/Malware_analysis#Artificial_Intelligence_vs._Humans)
 
 * The team (Ruchika Shukla,, Sandeep Mishra, Ayaan Omair, Noureddin Lutfi, Kaiqi Zhao) contributed with the Wikipedia edit for:
