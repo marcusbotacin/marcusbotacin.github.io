@@ -96,3 +96,15 @@ We added a few new topics this semester, as follows:
 
 * The team  (Aaron Mai, Aaron Thompson, Max Mouget, Brandon Yuan contributed with the Wikipedia edit for:
      * [Benefits@AI-assisted reverse engineering](https://en.wikipedia.org/wiki/AI-assisted_reverse_engineering#Benefits)
+
+* The team (Nicholas Tey, Danny Hernandez, Raj Nallanthighal, Helmut Ulrich) contributed withe the Wikipedia edit for:
+     * [Pseudo-Labels@Self-Supervised Learning(https://en.wikipedia.org/wiki/Self-supervised_learning#Pseudo-Labels)
+
+* The team (Anirudh Nukala, Rahul Rajendran, Sumit Nalavade, Shweta Kumaran) contributed withe the Wikipedia edit for:
+     * [Payload encoding for malware evasion@Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software)#Payload_encoding_for_malware_evasion)
+
+* The team (Anay Khanna, Shreyan Satheesh, Sugam Mishra, Venkat Nallam) contributed withe the Wikipedia edit for:
+    * [Applications in security@Concept Drift](https://en.wikipedia.org/wiki/Concept_drift#Applications_in_security)
+
+* The team (Nick Truong, Kyle Easton, James Hou, Lyle Morris, Veronica Hu) contributed withe the Wikipedia edit for:
+    * [Algorithmic generation@YARA](https://en.wikipedia.org/wiki/YARA#Algorithmic_generation)
