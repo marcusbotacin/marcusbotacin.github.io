@@ -10,6 +10,11 @@ redirect_from:
 
 Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Mar/2025)
 
+Warning
+======
+
+I'm not advertising positions by email or Whatsapp. If you receive a call from a non-TAMU email, it is not official.
+
 Announcements
 ======
 I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm looking for new Ph.D., Masters, and undergraduate students! [Check the research ideas and prospective students page](https://marcusbotacin.github.io/research/)

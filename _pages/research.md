@@ -5,11 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-Does my research work interest you? Do you want to work with me? Take a look at these overall recommendations and suggestions for research ideas.
+Warning
+======
+
+I'm not advertising positions by email or Whatsapp. If you receive a call from a non-TAMU email, it is not official.
 
 # Prospective Students
 
-* I have funded positions for Ph.D. students. You don't need to email me in advance (although you can). You can apply directly via the university website. I may/will invite students who mention me in their applications and/or any other students who have a security background for an interview in the appropriate time.
+Does my research work interest you? Do you want to work with me? Take a look at these overall recommendations and suggestions for research ideas.
+
+* I (usually) have funded positions for Ph.D. students. You don't need to email me in advance (although you can). You can apply directly via the university website. I may/will invite students who mention me in their applications and/or any other students who have a security background for an interview in the appropriate time.
 
 * I recommend you to email me if you are a special case, like a self-funded Ph.D. student and/or Post-Doc candidate.
 
