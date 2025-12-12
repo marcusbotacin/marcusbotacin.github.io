@@ -51,7 +51,7 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 10
+Currently Advised Students (At TAMU): 8
 ======
 * Seyyed Ali Ayati
   * PhD - (2023/10-In Progress)
@@ -67,31 +67,41 @@ Currently Advised Students (At TAMU): 10
   * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
 * Yash Phatak
   * MSc - Project-Based (2023/8-2025/Spring)
-* Ayushri Jain
-  * Alumni Project (2025/Spring - In Progress)
-  * Directed Studies (2024/Fall)
-* Zach Smith 
-  * Undergraduate - Research Course - 2025/Spring
-* Fady Seha 
-  *  Undergraduate - Research Course - 2025/Spring
-* Hiago Santos
-  * Visiting MSc - USP/Brazil - 2025/Spring
+* Sahil Kaushal
+  * MSc - Research Volunteer (Fall/25-In Progress)
+* Aditya Rajiv 
+  * Undergrad volunteer (Fall/25-In Progress)
 
 Graduated Students (At TAMU): 1
 ======
 * Nhat Nguyen
   * Msc - Spring/2025 - "AutoPYara: A Python/Java Framework for automatic YARA rule generation using semi-supervised clustering"
 
-Previously Advised Students (At TAMU): 22
+Previously Advised Students (At TAMU): 31
 ======
 * Giorgia di Pietro
   * PhD visitor - Sapienza University of Rome - Spring/2025
+* Hiago Santos
+  * Visiting MSc - USP/Brazil - 2025/Summer
+* Gaurangi Sinha 
+  * PhD Research Experience (Fall/25)
+* Sumanth Reddy Kota 
+  * MSc - Directed Studies (Fall/25)
+* Mitchell Good 
+  * Undergraduate - Directed Studies (Fall/25)
+* Samuel Scott 
+  * Undergraduate - Directed Studies (Fall/25)
 * Nhat Nguyen
   * MSc Thesis - (2024/Summer - 2025/Spring)
+* Richa Sharma 
+  * MSc - Research Alumni (Spring/25 - Fall/25)
 * Akshat Punjabi
   * MSc - Project-Based (2023/10-2025/5)
 * Bhavan Dondapati 
   * MSc - Project-Based (2023/8-2025/Spring)
+* Ayushri Jain
+  * Alumni Project (2025/Spring - In Progress)
+  * Directed Studies (2024/Fall)
 * Anushka Garg
   * Directed Studies (2024/Spring)
 * Pranav Taukari 
@@ -132,6 +142,10 @@ Previously Advised Students (At TAMU): 22
   * Alumni Project (2024/Fall - 2025/Spring)
 * Sushmita Pattanaik
   * Alumni Project (2024/Fall - 2025/Spring)
+* Zach Smith 
+  * Undergraduate - Research Course - 2025/Spring
+* Fady Seha 
+  *  Undergraduate - Research Course - 2025/Spring
 
 Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
@@ -168,10 +182,17 @@ Research Grants
 * NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
 * Laboratory of Physical Sciences (LPS) - YARA Generator - PI - 2025.
 
-Graduation Committees (At TAMU): 2
+Graduation Committees (At TAMU): 3
 ======
 * Chair: Nhat Nguyen, CSE MSc - Spring/2025
 * Member: Atharva Girish Agashe - ECE MSc - Spring/2025 
+* Member: Ekansh Bhatnagar - ECE MSc - Fall/2025
+
+Graduation Committees (External): 3
+======
+* Member: Claudio Torres Junior - PhD - Dinf/UFPR (Brazil) - 2025
+* Member: Gustavo Cerqueira Bastos - MSc Qual - Poli/USP (Brazil) - 2025
+* Member: David Novaski Neto - MSc Qual - Dinf/UFPR (Brazil) - 2018
 
 Academic Awards
 ======
