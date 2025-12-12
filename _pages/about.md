@@ -201,6 +201,7 @@ Graduation Committees (External): 3
 
 Academic Awards
 ======
+* Outstanding Alumnus - DInf/UFPR - 2025 [PT Certificate](files/outsdanding-ufpr.pdf)
 * Top-3 Best PhD Thesis in Security - Brazilian Computer Society (SBC) - 2022
   * Prize for: *"On the Malware Detection Problem"*, Botacin
 * Best PhD Thesis - Informatics Department/UFPR - 2022
