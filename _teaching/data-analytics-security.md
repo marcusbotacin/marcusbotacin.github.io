@@ -48,8 +48,63 @@ We added a few new topics this semester, as follows:
 	- Access Control
 	- K-anonymization
 
+## New Topics (2025)
+
+* Topic 5.1 was brokedown in two paper versions: [Asleep at the Keyboard? Assessing the Security of GitHub Copilot's Code Contributions](https://arxiv.org/abs/2108.09293) and [Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants](https://arxiv.org/abs/2208.09727)
+* Topic 5.7 now covers: [AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks](https://arxiv.org/abs/2403.01038)
+    * Concaepts:
+        - Penetration testing.
+        - Agent systems.
+        - RAG systems.
+        - LLMs as orchestrators vs. exploit writters.
+
 ## Outcomes (2025)
 
 * The team (Mabon Ninan, Uros Stanic, Sandali Srivastava, Jess Cadena) contributed with two Wikipedia edits:
     * [Concept Drift](https://en.wikipedia.org/wiki/Concept_drift)
     * [ML-Based AVs](https://en.wikipedia.org/wiki/Antivirus_software#Machine_Learning_Detection)
+
+* The team (Landon Uelsmann, Jeremy Tran, Anthony Augustine, Bao Dinh, Yafei Li) contributed with the Wikipedia edit for:
+    * [Security@Github Copilot](https://en.wikipedia.org/wiki/GitHub_Copilot#Security)
+
+
+* The team (David Higgins, Ryan Coffman, Zachary Williams, Yuexin Zhang, Daniel Fuhrmann) contributed with the Wikipedia edit for:
+     * [Challenges in ML to Security@Adversarial ML](https://en.wikipedia.org/wiki/Adversarial_machine_learning#Challenges_in_applying_machine_learning_to_security)
+
+* The team (Meet Gamdha, Raksha Vishwanath, Venkata Sumanth Reddy Kota, Philip Tran, Avi bansal) contributed with the Wikipedia edit for:
+     * [Stages of Machine Learning in Security and It's Pitfalls@Adversarial ML](https://en.wikipedia.org/wiki/Adversarial_machine_learning#Stages_of_Machine_Learning_in_Security_and_It's_Pitfalls)
+
+* The team (Mihir Santosh Sanjay, Graham Dungan, Hexin Hu, Trenton Gray, Dakota Pound) contributed with the Wikipedia edits for:
+     * [Data-driven@Automatic bug fixing](https://en.wikipedia.org/wiki/Automatic_bug_fixing#Data-driven)
+     * [Technologies@AI-assisted software development](https://en.wikipedia.org/wiki/AI-assisted_software_development#Technologies)
+     * [Automated Code Review](https://en.wikipedia.org/wiki/Automated_code_review)
+
+* The team (Bradley James, Roman Parker, Abel Gizaw, Kade Lieder, Ryan Kha) contributed with the Wikipedia edit for:
+     * [Artificial Intelligence vs. Humans@Malware analysis](https://en.wikipedia.org/wiki/Malware_analysis#Artificial_Intelligence_vs._Humans)
+
+* The team (Ruchika Shukla,, Sandeep Mishra, Ayaan Omair, Noureddin Lutfi, Kaiqi Zhao) contributed with the Wikipedia edit for:
+     * [Continuous Authentication in User Behavior Analytics@User behavior analytics](https://en.wikipedia.org/wiki/User_behavior_analytics#Continuous_Authentication_in_User_Behavior_Analytics)
+
+* The team (Kunal Jain, Abhiram Pendela, Vedarth Atreya, Pranav Shidlaghatta) contributed with the Wikipedia edit for:
+     * [Droppers and Antivirus Evasion@Dropper (malware)](https://en.wikipedia.org/wiki/Dropper_(malware)#Droppers_and_Antivirus_Evasion)
+
+* The team (Judson Salinas, Alex Zhang, Sam Bederman, Toren Long, Jonathan Yost) contributed with the Wikipedia edit for:
+     * [SISA Training@Machine Unlearning](https://en.wikipedia.org/wiki/Machine_unlearning#SISA_Training)
+
+* The team (Campbell Scott, Morgan McLean) contributed with the Wikipedia edit for:
+     * [Examples@Adversarial ML](https://en.wikipedia.org/wiki/Adversarial_machine_learning#Examples)
+
+* The team  (Aaron Mai, Aaron Thompson, Max Mouget, Brandon Yuan contributed with the Wikipedia edit for:
+     * [Benefits@AI-assisted reverse engineering](https://en.wikipedia.org/wiki/AI-assisted_reverse_engineering#Benefits)
+
+* The team (Nicholas Tey, Danny Hernandez, Raj Nallanthighal, Helmut Ulrich) contributed withe the Wikipedia edit for:
+     * [Pseudo-Labels@Self-Supervised Learning(https://en.wikipedia.org/wiki/Self-supervised_learning#Pseudo-Labels)
+
+* The team (Anirudh Nukala, Rahul Rajendran, Sumit Nalavade, Shweta Kumaran) contributed withe the Wikipedia edit for:
+     * [Payload encoding for malware evasion@Obfuscation](https://en.wikipedia.org/wiki/Obfuscation_(software)#Payload_encoding_for_malware_evasion)
+
+* The team (Anay Khanna, Shreyan Satheesh, Sugam Mishra, Venkat Nallam) contributed withe the Wikipedia edit for:
+    * [Applications in security@Concept Drift](https://en.wikipedia.org/wiki/Concept_drift#Applications_in_security)
+
+* The team (Nick Truong, Kyle Easton, James Hou, Lyle Morris, Veronica Hu) contributed withe the Wikipedia edit for:
+    * [Algorithmic generation@YARA](https://en.wikipedia.org/wiki/YARA#Algorithmic_generation)

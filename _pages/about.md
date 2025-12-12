@@ -10,6 +10,11 @@ redirect_from:
 
 Welcome to my website! You might be interested in my background and experiences, so I below present my CV. You can also find a [PDF version here](https://marcusbotacin.github.io/files/cv.pdf) (Last Update: Mar/2025)
 
+Warning
+======
+
+I'm not advertising positions by email or Whatsapp. If you receive a call from a non-TAMU email, it is not official.
+
 Announcements
 ======
 I have started a new position at [CSE@TAMU](https://engineering.tamu.edu/cse/profiles/botacin-marcus.html). I'm looking for new Ph.D., Masters, and undergraduate students! [Check the research ideas and prospective students page](https://marcusbotacin.github.io/research/)
@@ -236,7 +241,7 @@ Featured Talks
 * "Why Is Our Security Research Failing? Five Practices to Change!" [Page](https://www.usenix.org/conference/enigma2023/presentation/botacin) [Slides](files/enigma23.pdf) - USENIX ENIGMA 2023
 * "Does Your Threat Model Consider Country and Culture? A Case Study of Brazilian Financial Malware to show that it Should!" [Page](https://securityboulevard.com/2021/03/usenix-enigma-2021-marcus-botacins-does-your-threat-model-consider-country-and-culture-a-case-study-of-brazilian-internet-banking-security-to-show-that-it-should/) [Video](https://www.youtube.com/watch?v=5mrEJ83rBDY) - USENIX ENIGMA 2021
 
-Media COverage
+Media Coverage
 ======
 * Podcast interview for [Hou.Sec.Cast](https://www.buzzsprout.com/2215185/episodes/17069681)
 * My work being discussed at the [Segurança Legal](https://www.segurancalegal.com/2019/08/episodio-210-resumo-de-noticias/) (In Portuguese) Also [HERE](https://www.youtube.com/watch?v=_XuXkYh5_z8)
@@ -250,9 +255,10 @@ Academic Community Services
 * Panel Member:
     * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
 * Journal Editor:
-    * Associate Editor for Elsevier Computers \& Security (2025-TBD)
+    * Associate Editor for Elsevier Computers \& Security (2025-TBD) [Check Here](https://www.sciencedirect.com/journal/computers-and-security/about/editorial-board)
     * Guest Editor for ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
-* Program Committee (PC) Membership (21):
+* Program Committee (PC) Membership (22):
+    * DIMVA [2026](https://www.dimva.org/dimva2026/)
     * IEEE Security & Privacy [2026](https://www.ieee-security.org/TC/SP2026/cfpapers.html)
     * USENIX Security [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers) [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-papers) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-papers) [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-papers)
     * ACM Conference on Computer and Communications Security (CCS) [2025](https://www.sigsac.org/ccs/CCS2025/program-committee/) [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html) [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html)
@@ -268,7 +274,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 67 journals:
+* Ad-hoc reviewer for 73 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -278,14 +284,18 @@ Academic Community Services
     * Elsevier/ACTA Psychologica (Psy. of security)
     * Elsevier Array
     * Elsevier Computers and Electrical Engineering (COMPELECENG)
+    * Elsevier Computer Networks (ComNet)
     * Elsevier Computers & Security
     * Elsevier Computers in Human Behavior
+    * Elsevier Engineering Applications of Artificial Intelligence (EAAI)
     * Elsevier e-Prime - Advances in Electrical Engineering, Electronics and Energy Announcement
     * Elsevier Forensic Science International: Digital Investigation (Digital Investigation)
     * Elsevier Internet of Things and Cyber-Physical Systems (IOTCPS)
     * Elsevier Journal of Information Security and Applications (JISA)
     * Elsevier Journal of Network and Computer Applications (JNCA)
     * Elsevier Journal of Systems & Software (JSS)
+    * Elsevier Journal of the Franklin Institute
+    * Elsevier Knowledge-Based Systems (KNOSYS)
     * Elsevier Machine Learning With Applications (MLWA)
     * Elsevier Microprocessors and Microsystems
     * EURASIP Journal on Wireless Communications and Networking
@@ -307,10 +317,12 @@ Academic Community Services
     * IEEE Transactions on Emerging Topics in Computing (TETC)
     * IEEE Transactions on Industrial Informatics (TII)
     * IEEE Transactions on Information Forensics and Security (TIFS) 
+    * IEEE Transactions on Knowledge and Data Engineering (TKDE)
     * IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
     * IEEE Transactions on Mobile Computing (TMC)
     * IEEE Transactions on Network Science and Engineering (TNSE)
     * IEEE Transactions on Network and Service Management (TNSM)
+    * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     * IEEE Transactions on Reliability (TR)
     * IEEE Transactions on Service Computing (TSC)
     * IEEE Transactions on Software Engineering (TSE)

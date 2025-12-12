@@ -8,4 +8,4 @@ date: 2025-09-30
 location: "USA"
 ---
 
-My talk about hardware AVs. [Slides](https://marcusbotacin.github.io/files/housec25.pdf)
+My talk about hardware AVs. [Slides](https://marcusbotacin.github.io/files/housec25.pdf) [Videos](https://www.youtube.com/watch?v=P3p--1csAws)
