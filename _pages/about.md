@@ -75,7 +75,7 @@ Currently Advised Students (At TAMU): 8
 * Sahil Kaushal
   * MSc - Research Volunteer (Fall/25-In Progress)
 * Aditya Rajiv 
-  * Undergrad volunteer (Fall/25-In Progress)
+  * MSc - Research Volunteer (Fall/25-In Progress)
 
 Graduated Students (At TAMU): 1
 ======
