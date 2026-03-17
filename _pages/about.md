@@ -56,7 +56,7 @@ Other Professional Activities
   * 2023 - Scientific Advisory Board Member
     * Development of open-source security solutions.
 
-Currently Advised Students (At TAMU): 8
+Currently Advised Students (At TAMU): 13
 ======
 * Seyyed Ali Ayati
   * PhD - (2023/10-In Progress)
@@ -71,18 +71,32 @@ Currently Advised Students (At TAMU): 8
   * PhD - (2025/Spring-In Progress)
   * Undergrad -Faculty of Technical Sciences of Novi Sad (Serbia) -  Computer Science Student Advancement Program (CSSAP) Summer Internship - (2023/Summer)
 * Yash Phatak
-  * MSc - Project-Based (2023/8-2025/Spring)
+  * MSc - Direct Studies (2026/Spring)
+  * MSc - Project-Based (2023/Fall-2025/Fall)
 * Sahil Kaushal
-  * MSc - Research Volunteer (Fall/25-In Progress)
-* Aditya Rajiv 
-  * MSc - Research Volunteer (Fall/25-In Progress)
+  * Msc - Thesis - Hardware Performance Counters - (Fall/26)
+  * MSc - Directed Studies - (Spring/26)
+  * MSc - Research Volunteer (Fall/25)
+* Seong Jin Ahn
+  * MSc - Research - Thesis ("User Fingerprinting") - (Spring/26)
+* Quan Nguyen
+  * MSc - Thesis ("Stream-based rule generation") -  (Fall/26)
+  * MSc - Volunteer - (Spring/26)
+* Eshan Kelkar
+  * MSc - Directed Studies (Spring/26)
+* Aditya Gourishetty
+  * MSc - Directed Studies (Spring/26) 
+* Chinmay Mangalwedhe
+  * Undergraduate - Honors Research (Spring/26)
+* Aaron Thompson
+  * Undergradute - Directed Studies (Spring/26)
 
 Graduated Students (At TAMU): 1
 ======
 * Nhat Nguyen
   * Msc - Spring/2025 - "AutoPYara: A Python/Java Framework for automatic YARA rule generation using semi-supervised clustering"
 
-Previously Advised Students (At TAMU): 31
+Previously Advised Students (At TAMU): 32
 ======
 * Giorgia di Pietro
   * PhD visitor - Sapienza University of Rome - Spring/2025
@@ -90,6 +104,8 @@ Previously Advised Students (At TAMU): 31
   * Visiting MSc - USP/Brazil - 2025/Summer
 * Gaurangi Sinha 
   * PhD Research Experience (Fall/25)
+* Aditya Rajiv 
+  * MSc - Research Volunteer (Fall/25)
 * Sumanth Reddy Kota 
   * MSc - Directed Studies (Fall/25)
 * Mitchell Good 
@@ -151,6 +167,13 @@ Previously Advised Students (At TAMU): 31
   * Undergraduate - Research Course - 2025/Spring
 * Fady Seha 
   *  Undergraduate - Research Course - 2025/Spring
+
+Other Supervisions (2):
+======
+* Shlok Gilda
+  * PhD student at University of Florida - OSS Mentoring (2024-Present)
+* Aaron Thompson, Graham Dungan, Karl Farrar, Maxim Mouget
+  * Undergradute (TAMU) - Capstone Project "Owner" (Spring/26)
 
 Previously (co)Advised (Undergrad) Students (In Brazil): 5
 ======
