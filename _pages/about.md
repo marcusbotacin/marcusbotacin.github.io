@@ -210,14 +210,16 @@ Research Grants
 * NSF SaTC: CORE: Small: An evaluation framework and methodology to streamline Hardware Performance Counters as the next-generation malware detection system - PI - 2024-2026 - $523.415,00 - [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2327427&HistoricalAwards=false) [TAMU News](https://engineering.tamu.edu/news/2023/08/innovative-approach-detecting-malware-through-hardware-integrated-protection.html)
 * Laboratory of Physical Sciences (LPS) - YARA Generator - PI - 2025.
 
-Graduation Committees (At TAMU): 3
+Graduation Committees (At TAMU): 4
 ======
 * Chair: Nhat Nguyen, CSE MSc - Spring/2025
 * Member: Atharva Girish Agashe - ECE MSc - Spring/2025 
 * Member: Ekansh Bhatnagar - ECE MSc - Fall/2025
+* Member: Md Imanul Huq - CSE PhD Qual - Spring/2026
 
-Graduation Committees (External): 3
+Graduation Committees (External): 4
 ======
+* External Reviewer: Nicola Bottura - PhD - Sapienza University of Rome - 2025
 * Member: Claudio Torres Junior - PhD - Dinf/UFPR (Brazil) - 2025
 * Member: Gustavo Cerqueira Bastos - MSc Qual - Poli/USP (Brazil) - 2025
 * Member: David Novaski Neto - MSc Qual - Dinf/UFPR (Brazil) - 2018
