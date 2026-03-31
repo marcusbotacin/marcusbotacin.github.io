@@ -112,3 +112,10 @@ The students were divided in teams that inspected real applications. They discov
 * Don't worry though. The students were also able to patch and verify patches in the applications: ![Patches](https://marcusbotacin.github.io/teaching/FIGS/2025-sw-15.png)
 
 All vulnerabilities were disclosed to the developers.
+
+## 2026/ Spring Offering
+
+It is still mid-semester, and the students have already achieved great things, like:
+
+* XSS reports in GitHub-hosted projects, with issues and PRs submitted [See HERE](https://github.com/ArnoldSmith86/virtualtabletop/issues/2900)
+* CVEs assigned and security issues acknowledged in GitHub-stored projects. [See HERE](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-42wg-38gx-85rh)
