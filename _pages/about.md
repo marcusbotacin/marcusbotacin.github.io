@@ -301,7 +301,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 77 journals:
+* Ad-hoc reviewer for 78 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on Embedded Computing Systems (TECS)
@@ -309,6 +309,7 @@ Academic Community Services
     * ACM Transactions on AI Security and Privacy (TAISAP)
     * Cell: Patterns
     * Elsevier/ACTA Psychologica (Psy. of security)
+    * Elsevier Ad-Hoc Networks
     * Elsevier Array
     * Elsevier Computers and Electrical Engineering (COMPELECENG)
     * Elsevier Computer Networks (ComNet)
