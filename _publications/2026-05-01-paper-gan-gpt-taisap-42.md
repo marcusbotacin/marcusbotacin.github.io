@@ -2,13 +2,13 @@
 title: "When GANs meet LLMs: Bridging the Feature-Problem space gap for efficient adversarial ML-based malware generation"
 collection: publications
 permalink: /publication/2026-05-01-paper-gan-gpt-taisap-42
-excerpt: 'My students' paper about automatically generating evasive malware with GANs and LLMs.'
+excerpt: 'My students paper about automatically generating evasive malware with GANs and LLMs.'
 date: 2026-05-01
 venue: 'ACM TAISAP'
-paperurl: 'https://www.usenix.org/conference/woot25/presentation/ayati'
+paperurl: 'https://dl.acm.org/doi/10.1145/3816733'
 citation: 'Dondapati et al. (2026). &quot;When GANs meet LLMs: Bridging the Feature-Problem space gap for efficient adversarial ML-based malware generation&quot; <i>ACM TAISAP</i>. 1(1).'
 ---
-My students' paper about automatically generating evasive malware with GANs and LLMs
+My students paper about automatically generating evasive malware with GANs and LLMs.
 
 [Publisher Version](https://dl.acm.org/doi/10.1145/3816733)
 [Archived Version](https://marcusbotacin.github.io/files/gan-gpt.pdf)
