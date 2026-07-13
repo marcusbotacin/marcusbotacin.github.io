@@ -217,8 +217,9 @@ Graduation Committees (At TAMU): 4
 * Member: Ekansh Bhatnagar - ECE MSc - Fall/2025
 * Member: Md Imanul Huq - CSE PhD Qual - Spring/2026
 
-Graduation Committees (External): 4
+Graduation Committees (External): 5
 ======
+* Member: Rafael Oliveira da Rocha - PhD - University of Torino (UNITO/Italy)/Aeronautics Institute of Technology (ITA/Brazil)
 * External Reviewer: Nicola Bottura - PhD - Sapienza University of Rome - 2025
 * Member: Claudio Torres Junior - PhD - Dinf/UFPR (Brazil) - 2025
 * Member: Gustavo Cerqueira Bastos - MSc Qual - Poli/USP (Brazil) - 2025
