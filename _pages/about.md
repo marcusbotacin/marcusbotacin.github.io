@@ -285,6 +285,7 @@ Academic Community Services
 * Journal Editor:
     * Associate Editor for Elsevier Computers \& Security (2025-TBD) [Check Here](https://www.sciencedirect.com/journal/computers-and-security/about/editorial-board)
     * Guest Editor for ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
+    * Vice-Chair (Area Chair) for USENIX Security 2027
 * Program Committee (PC) Membership (23):
     * EuroSec [2026](https://eurosec-workshop.github.io/)
     * DIMVA [2026](https://www.dimva.org/dimva2026/)
