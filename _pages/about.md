@@ -304,7 +304,7 @@ Academic Community Services
     * USENIX Security 2020
     * USENIX WOOT 2020
     * Journal of Systems Research (JSys)
-* Ad-hoc reviewer for 79 journals:
+* Ad-hoc reviewer for 80 journals:
     * ACM Computing Surveys (CSUR)
     * ACM Digital Threats: Research and Practice (DTRAP)
     * ACM Transactions on AI Security and Privacy (TAISAP)
@@ -334,6 +334,7 @@ Academic Community Services
     * IEEE Access
     * IEEE Communications
     * IEEE Consumer Electronics Magazine (CEMag)
+    * IEEE Data Descriptions (DATA)
     * IEEE Design & Test (DTSI)
     * IEEE Internet Computing (IC)
     * IEEE Internet of Things Journal
