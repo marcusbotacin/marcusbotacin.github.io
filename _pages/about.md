@@ -222,7 +222,7 @@ Graduation Committees (External): 5
 * Member: Rafael Oliveira da Rocha - PhD - University of Torino (UNITO/Italy)/Aeronautics Institute of Technology (ITA/Brazil)
 * External Reviewer: Nicola Bottura - PhD - Sapienza University of Rome - 2025
 * Member: Claudio Torres Junior - PhD - Dinf/UFPR (Brazil) - 2025
-* Member: Gustavo Cerqueira Bastos - MSc Qual - Poli/USP (Brazil) - 2025
+* Member: Gustavo Cerqueira Bastos - MSc Qual+Defense - Poli/USP (Brazil) - 2025/2026
 * Member: David Novaski Neto - MSc Qual - Dinf/UFPR (Brazil) - 2018
 
 Academic Awards
