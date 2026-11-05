@@ -217,9 +217,10 @@ Graduation Committees (At TAMU): 4
 * Member: Ekansh Bhatnagar - ECE MSc - Fall/2025
 * Member: Md Imanul Huq - CSE PhD Qual - Spring/2026
 
-Graduation Committees (External): 5
+Graduation Committees (External): 6
 ======
-* Member: Rafael Oliveira da Rocha - PhD - University of Torino (UNITO/Italy)/Aeronautics Institute of Technology (ITA/Brazil)
+* Member: Member: Agney Roth - MsC - Aeronautics Institute of Technology (ITA/Brazil) - 2026
+* Member: Rafael Oliveira da Rocha - PhD - University of Torino (UNITO/Italy)/Aeronautics Institute of Technology (ITA/Brazil) - 2026
 * External Reviewer: Nicola Bottura - PhD - Sapienza University of Rome - 2025
 * Member: Claudio Torres Junior - PhD - Dinf/UFPR (Brazil) - 2025
 * Member: Gustavo Cerqueira Bastos - MSc Qual+Defense - Poli/USP (Brazil) - 2025/2026
@@ -281,7 +282,7 @@ Other Events
 Academic Community Services
 ======
 * Panel Member:
-    * National Science Foundation (NSF) Panelist (+ad-hoc reviewer)
+    * National Science Foundation (NSF) Panelist (+ad-hoc reviewer, SaTC, CSR, SBIR, PESOSE, CyberSFS))
 * Journal Editor:
     * Associate Editor for Elsevier Computers \& Security (2025-TBD) [Check Here](https://www.sciencedirect.com/journal/computers-and-security/about/editorial-board)
     * Guest Editor for ACM DTRAP Special Issue on Non-conventional Malware. [DTRAP CFP Page](https://dl.acm.org/journal/dtrap/calls-for-papers) Read our Introduction [Here](https://dl.acm.org/doi/10.1145/3627521) or [Here](https://marcusbotacin.github.io/files/ACM_DTRAP_Special_Issue_Intro.pdf)
