@@ -411,7 +411,7 @@ Publications Summary
     * ACM Availability, Reliability and Security (ARES): 1
     * ACM Conference on Code Generation and Optimization (CGO): 1
     * ACM Memory Systems (MEMSYS): 1
-    * IEEE Annual Computer Security Applications Conference (ACSAC) 
+    * IEEE Annual Computer Security Applications Conference (ACSAC): 1
     * IEEE Secure and Trustworthy Machine Learning (SATML): 1
     * IEEE Reconfigurable Communication-centric Systems-on-Chip (ReCoSoC): 1
     * USENIX Security: 1

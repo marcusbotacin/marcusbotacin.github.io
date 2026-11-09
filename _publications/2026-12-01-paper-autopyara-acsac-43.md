@@ -1,7 +1,7 @@
 ---
 title: "AutoPYara: Next-Gen YARA Rule Generator for Malware Family Clustering"
 collection: publications
-permalink: /publication/2026-12-01-paper-autopyara-acsac-43.md 
+permalink: /publication/2026-12-01-paper-autopyara-acsac-43
 excerpt: 'My students paper about automatically generating YARA rules for malware hunting with better biclusters.'
 date: 2026-12-01
 venue: '(IEEE) ACSAC'
